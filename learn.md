@@ -25,6 +25,7 @@ Curated collection of lists of useful resources to master 3D art together.
 ( _light_ )
 
 - [Lighting Course](https://www.youtube.com/playlist?list=PLjEaoINr3zgH9vCr47kSS5W8PEJBNIiwK) by [Andrew Price](https://www.youtube.com/@blenderguru) :mortar_board: :movie_camera: ( _blender_ ) : legendary beginner tutorial
+- [The Secret Ingredient to Photorealism](hhttps://www.youtube.com/watch?v=m9AT7H4GGrA) by [Andrew Price](https://www.youtube.com/@blenderguru) :movie_camera: ( _blender_ ) ( _color_ ) ( _light_ )
 
 ## Colors Theory and Composition Theory
 
@@ -36,6 +37,7 @@ Curated collection of lists of useful resources to master 3D art together.
 - [Color Theory for Noobs](https://www.youtube.com/watch?v=AvgCkHrcj90) by [Julian Ball](https://www.youtube.com/@FlowStudio) :movie_camera: ( _color_ )
 - [Understanding Color](https://www.youtube.com/watch?v=Qj1FK8n7WgY) by [Andrew Price](https://www.youtube.com/@blenderguru) :movie_camera: ( _color_ )
 - [Composition and Harmony](https://www.youtube.com/watch?v=p0rVUhXnmpY) by [Florent Farges](https://www.youtube.com/@FlorentFargesarts) :movie_camera: ( _color_ )
+- [The Secret Ingredient to Photorealism](hhttps://www.youtube.com/watch?v=m9AT7H4GGrA) by [Andrew Price](https://www.youtube.com/@blenderguru) :movie_camera: ( _blender_ ) ( _color_ ) ( _light_ )
 
 ## Texturing
 

@@ -41,10 +41,10 @@ Curated collection of lists of useful resources to master 3D art together.
 
 ## Ideas for Inspiration
 
-( _miniproject_ )
+:building_construction:
 
-- [Creating a Stylized Isometric City with Blender from scratch](https://www.youtube.com/watch?v=YvGfPzUu-Fw) by [CG Cookie](https://www.youtube.com/@cg_cookie) :mortar_board: :movie_camera: ( _blender_ ) ( _miniproject_ )
-- [Realistic Earth](https://www.youtube.com/watch?v=0YZzHn0iz8U) by [Andrew Price](https://www.youtube.com/@blenderguru) :movie_camera: ( _blender_ )
+- [Creating a Stylized Isometric City with Blender from scratch](https://www.youtube.com/watch?v=YvGfPzUu-Fw) by [CG Cookie](https://www.youtube.com/@cg_cookie) :mortar_board: :movie_camera: ( _blender_ ) :building_construction:
+- [Realistic Earth](https://www.youtube.com/watch?v=0YZzHn0iz8U) by [Andrew Price](https://www.youtube.com/@blenderguru) :movie_camera: :building_construction: ( _blender_ )
 
 ## Collections of collections
 
@@ -66,7 +66,7 @@ Curated collection of lists of useful resources to master 3D art together.
 - :open_file_folder: - collections of collections
 - :pirate_flag: - non-english
 - :page_facing_up: - either single article or single video-tutorial
-- ( _miniproject_ ) - ideas for inspiration of mini-projects to add to your portfolio
+- :building_construction: - ideas for inspiration of mini-projects to add to your portfolio
 - ( _official_ ) - official material
 - ( _interactive_ ) - it is possible to interact and get feedback from the system
 - ( _blog_ ) - blogs

@@ -21,7 +21,14 @@ Curated collection of lists of useful resources to master 3D art together.
 
 ## Colors Theory and Composition Theory
 
-- [Understanding Composition](https://www.youtube.com/watch?v=O8i7OKbWmRM) by [Andrew Price](https://www.youtube.com/@blenderguru) :movie_camera: ( _blender_ ) ( _composition_ )
+- [Composition for Artists](https://www.youtube.com/playlist?list=PLV2X3tgajVlHEWoxhxHBV5JyU7R80LT9R) by [Sycra](https://www.youtube.com/@Sycra) :movie_camera: ( _composition_ )
+- [Understanding Composition](https://www.youtube.com/watch?v=O8i7OKbWmRM) by [Andrew Price](https://www.youtube.com/@blenderguru) :movie_camera: ( _composition_ )
+- [Composition for Noobs](https://www.youtube.com/watch?v=9VVzCr3c9Jk) by [Julian Ball](https://www.youtube.com/@FlowStudio) :movie_camera: ( _composition_ )
+- [10 Composition Tips](https://www.youtube.com/watch?v=JuEkb6FNptE) by [Tyler Edlin](https://www.youtube.com/@TylerEdlin84) :movie_camera: ( _composition_ )
+- [7 Tips for Composition Design](https://www.youtube.com/watch?v=JuEkb6FNptE) by [Tyler Edlin](https://www.youtube.com/@TylerEdlin84) :movie_camera: ( _composition_ )
+- [Color Theory for Noobs](https://www.youtube.com/watch?v=AvgCkHrcj90) by [Julian Ball](https://www.youtube.com/@FlowStudio) :movie_camera: ( _color_ )
+- [Understanding Color](https://www.youtube.com/watch?v=Qj1FK8n7WgY) by [Andrew Price](https://www.youtube.com/@blenderguru) :movie_camera: ( _color_ )
+- [Composition and Harmony](https://www.youtube.com/watch?v=p0rVUhXnmpY) by [Florent Farges](https://www.youtube.com/@FlorentFargesarts) :movie_camera: ( _color_ )
 
 ## Materials and Shaders
 

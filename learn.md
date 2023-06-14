@@ -1,4 +1,4 @@
-# 3D Art
+# :mortar_board: Learn 3D Art
 
 Curated collection of lists of useful resources to master 3D art together.
 

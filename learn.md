@@ -13,6 +13,13 @@ Curated collection of lists of useful resources to master 3D art together.
 - :star: [Blender Beginner Donut Tutorial](https://www.youtube.com/playlist?list=PLjEaoINr3zgFX8ZsChQVQsuDSjEqdWMAD) by [Andrew Price](https://www.youtube.com/@blenderguru) :mortar_board: :movie_camera: ( _blender_ ) : legendary beginner tutorial
 - [Blender 3.0 Basics Course](https://www.youtube.com/playlist?list=PL3GeP3YLZn5ixsnIOIx9tB4v6s-rsw48X) by [CG Cookie](https://www.youtube.com/@cg_cookie) :mortar_board: :movie_camera: ( _blender_ ) : more academic introductory course on Blender
 
+## Materials and Shaders
+
+( _material_ )
+
+- [How to make Photorealistic Materials in Blender, using the Principled Shader](https://www.youtube.com/watch?v=4H5W6C_Mbck) by [Andrew Price](https://www.youtube.com/@blenderguru) :movie_camera: ( _blender_ ) : tutorial on Principled BSDF
+- [Blender Procedural Material Tutorials](https://www.youtube.com/playlist?list=PLsGl9GczcgBs6TtApKKK-L_0Nm6fovNPk) by [Ryan King](https://www.youtube.com/@RyanKingArt) :movie_camera: ( _blender_ ) : collection of not related tutorials on materials and shaders
+
 ## Light
 
 ( _light_ )
@@ -29,13 +36,6 @@ Curated collection of lists of useful resources to master 3D art together.
 - [Color Theory for Noobs](https://www.youtube.com/watch?v=AvgCkHrcj90) by [Julian Ball](https://www.youtube.com/@FlowStudio) :movie_camera: ( _color_ )
 - [Understanding Color](https://www.youtube.com/watch?v=Qj1FK8n7WgY) by [Andrew Price](https://www.youtube.com/@blenderguru) :movie_camera: ( _color_ )
 - [Composition and Harmony](https://www.youtube.com/watch?v=p0rVUhXnmpY) by [Florent Farges](https://www.youtube.com/@FlorentFargesarts) :movie_camera: ( _color_ )
-
-## Materials and Shaders
-
-( _material_ )
-
-- [How to make Photorealistic Materials in Blender, using the Principled Shader](https://www.youtube.com/watch?v=4H5W6C_Mbck) by [Andrew Price](https://www.youtube.com/@blenderguru) :movie_camera: ( _blender_ ) : tutorial on Principled BSDF
-- [Blender Procedural Material Tutorials](https://www.youtube.com/playlist?list=PLsGl9GczcgBs6TtApKKK-L_0Nm6fovNPk) by [Ryan King](https://www.youtube.com/@RyanKingArt) :movie_camera: ( _blender_ ) : collection of not related tutorials on materials and shaders
 
 ## Texturing
 

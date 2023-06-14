@@ -1,14 +1,14 @@
 # Introductory Onboarding
 
-## Light
-
-- ❌ Lighting Course
--- https://www.youtube.com/playlist?list=PLjEaoINr3zgH9vCr47kSS5W8PEJBNIiwK
-
 ## Materials and Shaders
 
 - ❌ How to make Photorealistic Materials in Blender, using the Principled Shader
 -- https://www.youtube.com/watch?v=4H5W6C_Mbck
+
+## Light
+
+- ❌ Lighting Course
+-- https://www.youtube.com/playlist?list=PLjEaoINr3zgH9vCr47kSS5W8PEJBNIiwK
 
 ## Colors Theory and Composition Theory
 

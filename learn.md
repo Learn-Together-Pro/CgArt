@@ -58,12 +58,16 @@ Curated collection of lists of useful resources to master 3D art together.
 - [Realistic Earth](https://www.youtube.com/watch?v=0YZzHn0iz8U) by [Andrew Price](https://www.youtube.com/@blenderguru) :building_construction: :movie_camera: ( _blender_ )
 - [Interior](https://www.youtube.com/watch?v=DJRBv917CI0) by [Andrew Price](https://www.youtube.com/@blenderguru) :building_construction: :movie_camera: ( _blender_ )
 
-## Collections of collections
+## Collections of collections on Blender
 
 :open_file_folder:
 
 - [Andrew Price](https://www.youtube.com/@blenderguru) :open_file_folder: :movie_camera: ( _blender_ )
 - [CG Cookie](https://www.youtube.com/@cg_cookie) :open_file_folder: :movie_camera: ( _blender_ )
+
+## Collections of collections on Drawing
+
+- [Sycra](https://www.youtube.com/@Sycra) :open_file_folder: :movie_camera: ( _blender_ )
 
 ## Tags legend
 

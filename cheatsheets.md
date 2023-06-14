@@ -33,3 +33,7 @@
 ## Emotions of Colors
 
 ![Emotions of colors](./cheatsheet/color_emotion.jpg)
+
+## Drawing Skills vs Roles Matrix
+
+![Drawing Skills vs Roles Matrix](./cheatsheet/drawing_skills_vs_roles_matrix.jpg)

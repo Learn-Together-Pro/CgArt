@@ -17,3 +17,14 @@
 ( _math_ ) ( _transformation_ )
 
 ![Perspective Explained](./cheatsheet/perspective_explained.jpg)
+
+## Color Theory
+
+( _math_ ) ( _transformation_ )
+
+![Color Theory](./cheatsheet/color_theory_2.jpg)
+![Color Theory](./cheatsheet/color_theory_3.jpg)
+
+## Emotions of Colors
+
+![Color Theory](./cheatsheet/color_emotion.jpg)

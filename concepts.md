@@ -6,7 +6,31 @@ Key concepts of 3D Art
 
 <!-- - []() by []() ( _:movie_camera:_ ) -->
 
-## Geneal
+## Color Theory
 
-Boolean
+##### Hue
+: ...
+
+##### Saturation
+: ...
+
+##### Lightness
+: ...
+
+##### Shade / Tint
+: ...
+
+##### Color Schema
+: ...
+
+##### Monochrome Color Schema
+: ...
+
+##### Analogous Color Schema
+: ...
+
+##### Complementary Color Schema
+: ...
+
+##### Triadic Color Schema
 : ...

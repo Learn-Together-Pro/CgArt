@@ -27,4 +27,4 @@
 
 ## Emotions of Colors
 
-![Color Theory](./cheatsheet/color_emotion.jpg)
+![Emotions of colors](./cheatsheet/color_emotion.jpg)

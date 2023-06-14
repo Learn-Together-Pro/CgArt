@@ -22,6 +22,10 @@
 
 ( _math_ ) ( _transformation_ )
 
+
+<!-- ![Color Wheel](./cheatsheet/color_wheel_1.jpg) -->
+<!-- ![Color Wheel](./cheatsheet/color_wheel_2.jpg) -->
+
 ![Color Theory](./cheatsheet/color_theory_2.jpg)
 ![Color Theory](./cheatsheet/color_theory_3.jpg)
 

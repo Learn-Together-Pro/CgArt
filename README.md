@@ -1,4 +1,4 @@
-# :compass: Learn 3D Art Together
+# ⚛ Learn 3D Art Together
 
 Awesome collection of learning materials to master 3D Art.
 

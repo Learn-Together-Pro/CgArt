@@ -10,14 +10,14 @@ Curated collection of lists of useful resources to master 3D art together.
 
 ( _basic_ ) ( _blender_ )
 
-- :star: [Blender Beginner Donut Tutorial](https://www.youtube.com/playlist?list=PLjEaoINr3zgFX8ZsChQVQsuDSjEqdWMAD) by [Andrew Price](https://www.youtube.com/@blenderguru) :mortar_board: :movie_camera: ( _blender_ ) : legendary beginner tutorial
-- [Blender 3.0 Basics Course](https://www.youtube.com/playlist?list=PL3GeP3YLZn5ixsnIOIx9tB4v6s-rsw48X) by [CG Cookie](https://www.youtube.com/@cg_cookie) :mortar_board: :movie_camera: ( _blender_ ) : more academic introductory course on Blender
+- :star: [Blender Beginner Donut Tutorial](https://www.youtube.com/playlist?list=PLjEaoINr3zgFX8ZsChQVQsuDSjEqdWMAD) by [Andrew Price](https://www.youtube.com/@blenderguru) :movie_camera: :mortar_board: ( _blender_ ) : legendary beginner tutorial
+- [Blender 3.0 Basics Course](https://www.youtube.com/playlist?list=PL3GeP3YLZn5ixsnIOIx9tB4v6s-rsw48X) by [CG Cookie](https://www.youtube.com/@cg_cookie) :movie_camera: :mortar_board: ( _blender_ ) : more academic introductory course on Blender
 
 ## Light
 
 ( _light_ )
 
-- [Lighting Course](https://www.youtube.com/playlist?list=PLjEaoINr3zgH9vCr47kSS5W8PEJBNIiwK) by [Andrew Price](https://www.youtube.com/@blenderguru) :mortar_board: :movie_camera: ( _blender_ ) : legendary beginner tutorial
+- [Lighting Course](https://www.youtube.com/playlist?list=PLjEaoINr3zgH9vCr47kSS5W8PEJBNIiwK) by [Andrew Price](https://www.youtube.com/@blenderguru) :movie_camera: :mortar_board: ( _blender_ ) : legendary beginner tutorial
 
 ## Materials and Shaders
 
@@ -30,20 +30,20 @@ Curated collection of lists of useful resources to master 3D art together.
 
 ( _texturing_ )
 
-- [Intermediate Blender Tutorial Series](https://www.youtube.com/playlist?list=PLjEaoINr3zgHJVJF3T3CFUAZ6z11jKg6a) by [Andrew Price](https://www.youtube.com/@blenderguru) :mortar_board: :movie_camera: ( _blender_ ) ( _modeling_ ) ( _texturing_ ) : course on modeling and texturing in Blender
+- [Intermediate Blender Tutorial Series](https://www.youtube.com/playlist?list=PLjEaoINr3zgHJVJF3T3CFUAZ6z11jKg6a) by [Andrew Price](https://www.youtube.com/@blenderguru) :movie_camera: :mortar_board: ( _blender_ ) ( _modeling_ ) ( _texturing_ ) : course on modeling and texturing in Blender
 
 ## Modeling
 
 ( _modeling_ )
 
-- [Intermediate Blender Tutorial Series](https://www.youtube.com/playlist?list=PLjEaoINr3zgHJVJF3T3CFUAZ6z11jKg6a) by [Andrew Price](https://www.youtube.com/@blenderguru) :mortar_board: :movie_camera: ( _blender_ ) ( _modeling_ ) ( _texturing_ ) : course on modeling and texturing in Blender
-- [Learning and Understanding Topology in Blender](https://www.youtube.com/playlist?list=PL3GeP3YLZn5irhqsD6_Srf-CeimYPonaK) by [CG Cookie](https://www.youtube.com/@cg_cookie) :mortar_board: :movie_camera: ( _blender_ ) ( _modeling_ ) : course on modeling and topology
+- [Intermediate Blender Tutorial Series](https://www.youtube.com/playlist?list=PLjEaoINr3zgHJVJF3T3CFUAZ6z11jKg6a) by [Andrew Price](https://www.youtube.com/@blenderguru) :movie_camera: :mortar_board: ( _blender_ ) ( _modeling_ ) ( _texturing_ ) : course on modeling and texturing in Blender
+- [Learning and Understanding Topology in Blender](https://www.youtube.com/playlist?list=PL3GeP3YLZn5irhqsD6_Srf-CeimYPonaK) by [CG Cookie](https://www.youtube.com/@cg_cookie) :movie_camera: :mortar_board: ( _blender_ ) ( _modeling_ ) : course on modeling and topology
 
 ## Ideas for Inspiration
 
 :building_construction:
 
-- [Creating a Stylized Isometric City with Blender from scratch](https://www.youtube.com/watch?v=YvGfPzUu-Fw) by [CG Cookie](https://www.youtube.com/@cg_cookie) :mortar_board: :movie_camera: ( _blender_ ) :building_construction:
+- [Creating a Stylized Isometric City with Blender from scratch](https://www.youtube.com/watch?v=YvGfPzUu-Fw) by [CG Cookie](https://www.youtube.com/@cg_cookie) :movie_camera: :building_construction: ( _blender_ ) :building_construction:
 - [Realistic Earth](https://www.youtube.com/watch?v=0YZzHn0iz8U) by [Andrew Price](https://www.youtube.com/@blenderguru) :movie_camera: :building_construction: ( _blender_ )
 
 ## Collections of collections

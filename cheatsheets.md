@@ -25,6 +25,11 @@
 ![Color Theory](./cheatsheet/color_theory_2.jpg)
 ![Color Theory](./cheatsheet/color_theory_3.jpg)
 
+## Color Theory: Tonic / Dominant / Accent
+
+![Color Theory: Tonic / Dominant / Accent Explained](./cheatsheet/color_tonic_dominant_accent_explained.jpg)
+![Color Theory: Tonic / Dominant / Accent Ruke](./cheatsheet/color_tonic_dominant_accent_rule.jpg)
+
 ## Emotions of Colors
 
 ![Emotions of colors](./cheatsheet/color_emotion.jpg)

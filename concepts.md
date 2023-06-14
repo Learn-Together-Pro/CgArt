@@ -14,10 +14,19 @@ Key concepts of 3D Art
 ##### Saturation
 : ...
 
+##### Saturating / Desaturating
+: ...
+
 ##### Lightness
 : ...
 
 ##### Shade / Tint
+: ...
+
+##### Color Warmness
+: ...
+
+##### Colder color / Warmer color
 : ...
 
 ##### Color Schema

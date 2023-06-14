@@ -27,7 +27,9 @@ Curated collection of lists of useful resources to master 3D art together.
 - [Lighting Course](https://www.youtube.com/playlist?list=PLjEaoINr3zgH9vCr47kSS5W8PEJBNIiwK) by [Andrew Price](https://www.youtube.com/@blenderguru) :mortar_board: :movie_camera: ( _blender_ ) : legendary beginner tutorial
 - [The Secret Ingredient to Photorealism](hhttps://www.youtube.com/watch?v=m9AT7H4GGrA) by [Andrew Price](https://www.youtube.com/@blenderguru) :movie_camera: ( _blender_ ) ( _color_ ) ( _light_ )
 
-## Colors Theory and Composition Theory
+## Aesthetics
+
+( _aesthetics_ )
 
 - [Composition for Artists](https://www.youtube.com/playlist?list=PLV2X3tgajVlHEWoxhxHBV5JyU7R80LT9R) by [Sycra](https://www.youtube.com/@Sycra) :movie_camera: ( _composition_ )
 - [Understanding Composition](https://www.youtube.com/watch?v=O8i7OKbWmRM) by [Andrew Price](https://www.youtube.com/@blenderguru) :movie_camera: ( _composition_ )
@@ -95,11 +97,11 @@ Curated collection of lists of useful resources to master 3D art together.
 - ( _basic_ ) - basic learning material
 - ( _2d_ ) - related to 2d graphics
 - ( _3d_ ) - related to 3d graphics
+- ( _aesthetics_ ) - related to either colors theory or composition theory
 - ( _light_ ) - related to light
 - ( _composition_ ) - related to composition theory
 - ( _color_ ) - related to color theory
 - ( _material_ ) - related to materials and shaders
-
 
 ##### Specific Technology
 

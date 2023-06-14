@@ -1,4 +1,4 @@
-# Material / Light / Color Theory / Composition
+# Material / Light / Color Theory / Composition Theory
 
 ## Materials and Shaders
 
@@ -9,7 +9,7 @@
 - ❌ [Lighting Course][Lighting Course]
 - ❌ [The Secret Ingredient to Photorealism][The Secret Ingredient to Photorealism]
 
-## Colors Theory and Composition Theory
+## Aesthetics
 
 - ❌ [Composition for Artists][Composition for Artists]
 - ❌ [Understanding Composition][Understanding Composition]

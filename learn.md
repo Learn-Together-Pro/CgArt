@@ -19,6 +19,10 @@ Curated collection of lists of useful resources to master 3D art together.
 
 - [Lighting Course](https://www.youtube.com/playlist?list=PLjEaoINr3zgH9vCr47kSS5W8PEJBNIiwK) by [Andrew Price](https://www.youtube.com/@blenderguru) :mortar_board: :movie_camera: ( _blender_ ) : legendary beginner tutorial
 
+## Colors Theory and Composition Theory
+
+- [Understanding Composition](https://www.youtube.com/watch?v=O8i7OKbWmRM) by [Andrew Price](https://www.youtube.com/@blenderguru) :movie_camera: ( _blender_ ) ( _composition_ )
+
 ## Materials and Shaders
 
 ( _material_ )
@@ -45,6 +49,7 @@ Curated collection of lists of useful resources to master 3D art together.
 
 - [Creating a Stylized Isometric City with Blender from scratch](https://www.youtube.com/watch?v=YvGfPzUu-Fw) by [CG Cookie](https://www.youtube.com/@cg_cookie) :building_construction: :movie_camera: ( _blender_ ) :building_construction:
 - [Realistic Earth](https://www.youtube.com/watch?v=0YZzHn0iz8U) by [Andrew Price](https://www.youtube.com/@blenderguru) :building_construction: :movie_camera: ( _blender_ )
+- [Interior](https://www.youtube.com/watch?v=DJRBv917CI0) by [Andrew Price](https://www.youtube.com/@blenderguru) :building_construction: :movie_camera: ( _blender_ )
 
 ## Collections of collections
 
@@ -78,7 +83,10 @@ Curated collection of lists of useful resources to master 3D art together.
 - ( _2d_ ) - related to 2d graphics
 - ( _3d_ ) - related to 3d graphics
 - ( _light_ ) - related to light
+- ( _composition_ ) - related to composition theory
+- ( _color_ ) - related to color theory
 - ( _material_ ) - related to materials and shaders
+
 
 ##### Specific Technology
 

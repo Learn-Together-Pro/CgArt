@@ -67,3 +67,6 @@ Key concepts of 3D Art
 
 ##### Vanishinh Point
 : ...
+
+##### Impostors
+: ...

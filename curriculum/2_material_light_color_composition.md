@@ -16,9 +16,11 @@
 - ❌ [Composition for Noobs][Composition for Noobs]
 - ❌ [Composition Tips][Composition Tips]
 - ❌ [7 Tips for Composition Design][7 Tips for Composition Design]
+- ❌ [Take your Blender Cinematography to the Next Level][Take your Blender Cinematography to the Next Level]
 - ❌ [Color Theory for Noobs][Color Theory for Noobs]
 - ❌ [Understanding Color][Understanding Color]
 - ❌ [Composition and Harmony][Composition and Harmony]
+- ❌ [The Secret Ingredient to Photorealism][The Secret Ingredient to Photorealism]
 
 ## Objectives
 
@@ -42,6 +44,8 @@
 [Composition for Noobs]: https://www.youtube.com/watch?v=9VVzCr3c9Jk
 [Composition Tips]: https://www.youtube.com/watch?v=JuEkb6FNptE
 [7 Tips for Composition Design]: https://www.youtube.com/watch?v=JuEkb6FNptE
+[Take your Blender Cinematography to the Next Level]: https://www.youtube.com/watch?v=h3ouYgJ0hUk
 [Color Theory for Noobs]: https://www.youtube.com/watch?v=AvgCkHrcj90
 [Understanding Color]: https://www.youtube.com/watch?v=Qj1FK8n7WgY
 [Composition and Harmony]: https://www.youtube.com/watch?v=p0rVUhXnmpY
+[The Secret Ingredient to Photorealism]: https://www.youtube.com/watch?v=m9AT7H4GGrA

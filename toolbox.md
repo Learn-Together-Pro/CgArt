@@ -10,6 +10,7 @@ Curated collection of lists of useful tools for CG Art.
 
 ( _assets_importer_ ) ( _blender_ )
 
+- [Poliigon in Blender](https://www.poliigon.com/blender) and [Poliigon in Blender Tutorial](https://www.youtube.com/playlist?list=PLmIdkbKWZZAwVhIJwk9K9hVQd9GFtAImC) by [Andrew Price](https://www.youtube.com/@blenderguru)
 - [Model Manager](https://store.chocofur.com/search/category/addons) and [Model Manager Tutorial](https://www.youtube.com/playlist?list=PLYVR0A4acpNanZopKbJoXTy61T00lKk9w) by [Chocofur](https://www.youtube.com/@Chocofur)
 
 ## Tags legend

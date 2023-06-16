@@ -101,7 +101,7 @@ Curated collection of lists of useful resources to master CG Art together.
 - [The CG Essentials](https://www.youtube.com/@TheCGEssentials) :open_file_folder: :movie_camera: ( _blender_ )
 - [Grant Abbitt](https://www.youtube.com/@grabbitt) :open_file_folder: :movie_camera: ( _blender_ ) : lots of ideas for inspirations and tutorials
 - [Kaizen Tutorials](https://www.youtube.com/@KaizenTutorials) :open_file_folder: :movie_camera: ( _blender_ ) : tutorials on hot topics
-- [Chocofur](https://www.youtube.com/@Chocofur) :open_file_folder: :movie_camera: ( _blender_ ) : advanced advices
+- [Chocofur](https://www.youtube.com/@Chocofur) :open_file_folder: :movie_camera: ( _blender_ ) : advanced advices and interior design
 
 ## Collections of collections on Drawing
 

@@ -1,6 +1,6 @@
-# :mortar_board: Learn 3D Art
+# :mortar_board: Learn CG Art
 
-Curated collection of lists of useful resources to master 3D art together.
+Curated collection of lists of useful resources to master CG Art together.
 
 [:arrow_down: Tags legend](#tags-legend) at the end of the page.
 
@@ -8,7 +8,7 @@ Curated collection of lists of useful resources to master 3D art together.
 
 ## Basics of Blender
 
-( _basic_ ) ( _blender_ )
+( _introductory_ ) ( _blender_ )
 
 - :star: [Blender Beginner Donut Tutorial](https://www.youtube.com/playlist?list=PLjEaoINr3zgFX8ZsChQVQsuDSjEqdWMAD) by [Andrew Price](https://www.youtube.com/@blenderguru) :mortar_board: :movie_camera: ( _blender_ ) : legendary beginner tutorial
 - [Blender 3.0 Basics Course](https://www.youtube.com/playlist?list=PL3GeP3YLZn5ixsnIOIx9tB4v6s-rsw48X) by [CG Cookie](https://www.youtube.com/@cg_cookie) :mortar_board: :movie_camera: ( _blender_ ) : more academic introductory course on Blender
@@ -20,6 +20,13 @@ Curated collection of lists of useful resources to master 3D art together.
 - [How to make Photorealistic Materials in Blender, using the Principled Shader](https://www.youtube.com/watch?v=4H5W6C_Mbck) by [Andrew Price](https://www.youtube.com/@blenderguru) :movie_camera: ( _blender_ ) : tutorial on Principled BSDF
 - [Blender Procedural Material Tutorials](https://www.youtube.com/playlist?list=PLsGl9GczcgBs6TtApKKK-L_0Nm6fovNPk) by [Ryan King](https://www.youtube.com/@RyanKingArt) :movie_camera: ( _blender_ ) : collection of not related tutorials on materials and shaders
 
+## Modeling
+
+( _modeling_ )
+
+- [Intermediate Blender Tutorial Series](https://www.youtube.com/playlist?list=PLjEaoINr3zgHJVJF3T3CFUAZ6z11jKg6a) by [Andrew Price](https://www.youtube.com/@blenderguru) :mortar_board: :movie_camera: ( _blender_ ) ( _modeling_ ) ( _texturing_ ) : course on modeling and texturing in Blender
+- [Learning and Understanding Topology in Blender](https://www.youtube.com/playlist?list=PL3GeP3YLZn5irhqsD6_Srf-CeimYPonaK) by [CG Cookie](https://www.youtube.com/@cg_cookie) :mortar_board: :movie_camera: ( _blender_ ) ( _modeling_ ) : course on modeling and topology
+
 ## Light
 
 ( _light_ )
@@ -28,7 +35,28 @@ Curated collection of lists of useful resources to master 3D art together.
 - [The Secret Ingredient to Photorealism](hhttps://www.youtube.com/watch?v=m9AT7H4GGrA) by [Andrew Price](https://www.youtube.com/@blenderguru) :movie_camera: ( _blender_ ) ( _color_ ) ( _light_ )
 - [The Power of Lighting](https://www.youtube.com/watch?v=ElMM3u2MO5k) by [Kaizen Tutorials](https://www.youtube.com/@KaizenTutorials) :movie_camera: ( _blender_ ) ( _light_ )
 
-## Aesthetics
+## Texturing
+
+( _texturing_ )
+
+- [Intermediate Blender Tutorial Series](https://www.youtube.com/playlist?list=PLjEaoINr3zgHJVJF3T3CFUAZ6z11jKg6a) by [Andrew Price](https://www.youtube.com/@blenderguru) :mortar_board: :movie_camera: ( _blender_ ) ( _modeling_ ) ( _texturing_ ) : course on modeling and texturing in Blender
+
+## Interior Design
+
+( _interior_ )
+
+- [Interior Visualization](https://www.youtube.com/playlist?list=PLYVR0A4acpNaFiTL-qmxH8fm4DJxqq-vp) by [Chocofur](https://www.youtube.com/@Chocofur) :mortar_board: :movie_camera: ( _blender_ ) ( _interior_ ) : course on modeling and texturing in Blender
+
+## Productivity Optimization
+
+( _productivity_ )
+
+- [Tutorial on Render Time Optimization](https://www.youtube.com/watch?v=JCLSJg9sdNI) by [Andrew Price](https://www.youtube.com/@blenderguru) :movie_camera: ( _blender_ ) ( _productivity_ ) ( _render_time_ )
+- [5 Tips for FASTER Renders in Blender Cycles](https://www.youtube.com/watch?v=VEdd9CynwQU) by [Kaizen Tutorials](https://www.youtube.com/@KaizenTutorials) :movie_camera: ( _blender_ ) ( _productivity_ ) ( _render_time_ )
+- [Blender Settings I wish I knew Before!](https://www.youtube.com/watch?v=fcgctjmfhc8) by [Kaizen Tutorials](https://www.youtube.com/@KaizenTutorials) :movie_camera: ( _blender_ ) ( _productivity_ ) : several settings and plugins worth be mentioned
+- [11 Blender Tips that will make you a Better CG Artist!](https://www.youtube.com/watch?v=944D33KvhmA) by [Kaizen Tutorials](https://www.youtube.com/@KaizenTutorials) :movie_camera: ( _blender_ ) ( _productivity_ ) : several settings and plugins worth be mentioned
+
+## Aesthetics in General
 
 ( _aesthetics_ )
 
@@ -40,29 +68,14 @@ Curated collection of lists of useful resources to master 3D art together.
 - [Color Theory for Noobs](https://www.youtube.com/watch?v=AvgCkHrcj90) by [Julian Ball](https://www.youtube.com/@FlowStudio) :movie_camera: ( _color_ )
 - [Understanding Color](https://www.youtube.com/watch?v=Qj1FK8n7WgY) by [Andrew Price](https://www.youtube.com/@blenderguru) :movie_camera: ( _color_ )
 - [Composition and Harmony](https://www.youtube.com/watch?v=p0rVUhXnmpY) by [Florent Farges](https://www.youtube.com/@FlorentFargesarts) :movie_camera: ( _color_ )
-- [The Secret Ingredient to Photorealism](hhttps://www.youtube.com/watch?v=m9AT7H4GGrA) by [Andrew Price](https://www.youtube.com/@blenderguru) :movie_camera: ( _blender_ ) ( _composition_ ) ( _color_ ) ( _light_ )
-- [Take your Blender Cinematography to the Next Level](https://www.youtube.com/watch?v=h3ouYgJ0hUk) by [Kaizen Tutorials](https://www.youtube.com/@KaizenTutorials) :movie_camera: ( _blender_ ) ( _composition_ ) ( _camera_ )
 
-## Texturing
+## Aesthetics in Blender
 
-( _texturing_ )
+( _aesthetics_ ) ( _blender_ )
 
-- [Intermediate Blender Tutorial Series](https://www.youtube.com/playlist?list=PLjEaoINr3zgHJVJF3T3CFUAZ6z11jKg6a) by [Andrew Price](https://www.youtube.com/@blenderguru) :mortar_board: :movie_camera: ( _blender_ ) ( _modeling_ ) ( _texturing_ ) : course on modeling and texturing in Blender
-
-## Modeling
-
-( _modeling_ )
-
-- [Intermediate Blender Tutorial Series](https://www.youtube.com/playlist?list=PLjEaoINr3zgHJVJF3T3CFUAZ6z11jKg6a) by [Andrew Price](https://www.youtube.com/@blenderguru) :mortar_board: :movie_camera: ( _blender_ ) ( _modeling_ ) ( _texturing_ ) : course on modeling and texturing in Blender
-- [Learning and Understanding Topology in Blender](https://www.youtube.com/playlist?list=PL3GeP3YLZn5irhqsD6_Srf-CeimYPonaK) by [CG Cookie](https://www.youtube.com/@cg_cookie) :mortar_board: :movie_camera: ( _blender_ ) ( _modeling_ ) : course on modeling and topology
-
-## Productivity Optimization
-
-( _productivity_ )
-
-- [Tutorial on Render Time Optimization](https://www.youtube.com/watch?v=JCLSJg9sdNI) by [Andrew Price](https://www.youtube.com/@blenderguru) :movie_camera: ( _blender_ ) ( _productivity_ ) ( _render_time_ )
-- [5 Tips for FASTER Renders in Blender Cycles](https://www.youtube.com/watch?v=VEdd9CynwQU) by [Kaizen Tutorials](https://www.youtube.com/@KaizenTutorials) :movie_camera: ( _blender_ ) ( _productivity_ ) ( _render_time_ )
-- [Blender Settings I wish I knew Before!](https://www.youtube.com/watch?v=fcgctjmfhc8) by [Kaizen Tutorials](https://www.youtube.com/@KaizenTutorials) :movie_camera: ( _blender_ ) ( _productivity_ ) : several settings and plugins worth be mentioned
+- [The Secret Ingredient to Photorealism](hhttps://www.youtube.com/watch?v=m9AT7H4GGrA) by [Andrew Price](https://www.youtube.com/@blenderguru) :movie_camera: ( _composition_ ) ( _color_ ) ( _light_ )
+- [Take your Blender Cinematography to the Next Level](https://www.youtube.com/watch?v=h3ouYgJ0hUk) by [Kaizen Tutorials](https://www.youtube.com/@KaizenTutorials) :movie_camera: ( _camera_ )
+- [16 Blender Tips That Made Me Pro](https://www.youtube.com/watch?v=Y8QGgOvwa94) by [Chocofur](https://www.youtube.com/@Chocofur) :movie_camera: ( _composition_ ) ( _light_ ) : advanced advices on aesthetics and composition
 
 ## Ideas for Inspiration
 
@@ -88,6 +101,7 @@ Curated collection of lists of useful resources to master 3D art together.
 - [The CG Essentials](https://www.youtube.com/@TheCGEssentials) :open_file_folder: :movie_camera: ( _blender_ )
 - [Grant Abbitt](https://www.youtube.com/@grabbitt) :open_file_folder: :movie_camera: ( _blender_ ) : lots of ideas for inspirations and tutorials
 - [Kaizen Tutorials](https://www.youtube.com/@KaizenTutorials) :open_file_folder: :movie_camera: ( _blender_ ) : tutorials on hot topics
+- [Chocofur](https://www.youtube.com/@Chocofur) :open_file_folder: :movie_camera: ( _blender_ ) : advanced advices
 
 ## Collections of collections on Drawing
 
@@ -117,15 +131,18 @@ Curated collection of lists of useful resources to master 3D art together.
 
 ##### Specific Domain
 
-- ( _basic_ ) - basic learning material
+- ( _introductory_ ) - introductory learning material
 - ( _2d_ ) - related to 2d graphics
 - ( _3d_ ) - related to 3d graphics
 - ( _aesthetics_ ) - related to either colors theory or composition theory
+- ( _material_ ) - related to materials and shaders
+- ( _modeling_ ) related to modeling
 - ( _light_ ) - related to light
+- ( _texturing_ ) related to texturing
+- ( _interior_ ) related to interior design
 - ( _composition_ ) - related to composition theory
 - ( _camera_ ) - related to camera
 - ( _color_ ) - related to color theory
-- ( _material_ ) - related to materials and shaders
 - ( _drawing_ ) - teach to draw and paint
 - ( _productivity_ ) - productivity optimization
 - ( _render_time_ ) - render time optimization
@@ -134,4 +151,4 @@ Curated collection of lists of useful resources to master 3D art together.
 
 - ( _unity_ ) - related to Unity
 - ( _godot_ ) - related to Godot
-- ( _blender_ ) - related to 3D Art
+- ( _blender_ ) - related to CG Art

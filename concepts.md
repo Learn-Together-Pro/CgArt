@@ -1,6 +1,6 @@
-# Key concepts of 3D Art
+# Key concepts of CG Art
 
-Key concepts of 3D Art
+Key concepts of CG Art
 
 <!-- [:arrow_down: Tags legend](#tags-legend) at the end of the page. -->
 

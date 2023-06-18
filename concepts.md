@@ -70,3 +70,6 @@ Key concepts of CG Art
 
 ##### Impostors
 : ...
+
+##### Dynamic Range ~ f-stops
+: ...

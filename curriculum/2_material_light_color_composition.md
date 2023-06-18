@@ -2,13 +2,19 @@
 
 ## Materials and Shaders
 
-- ❌ [How to make Photorealistic Materials in Blender, using the Principled Shader][How to make Photorealistic Materials in Blender, using the Principled Shader]
+- ❌ [How to make Photorealistic Materials, using the Principled Shader][How to make Photorealistic Materials, using the Principled Shader]
 
 ## Light
 
 - ❌ [Lighting Course][Lighting Course]
 - ❌ [The Secret Ingredient to Photorealism][The Secret Ingredient to Photorealism]
 - ❌ [The Power of Lighting][The Power of Lighting]
+
+## Post-effects
+
+- ❌ [Donut Tutorial: Compositing][Donut Tutorial: Compositing]
+- ❌ [Introduction to Compositing][Introduction to Compositing]
+- ❌ [12 Awesome Compositor Effects](https://www.youtube.com/watch?v=8x2qfWNHedM)
 
 ## Aesthetics
 
@@ -25,6 +31,7 @@
 ## Objectives
 
 - ❌ 6 different color schemas
+- ❌ 4 different set of post-effects to make it look completely different
 - ❌ 4 different focal points
 - ❌ 4 different structures
 - ❌ 4 different balance
@@ -36,10 +43,13 @@
 
 ## Links
 
-[How to make Photorealistic Materials in Blender, using the Principled Shader]: https://www.youtube.com/watch?v=4H5W6C_Mbck
+[How to make Photorealistic Materials, using the Principled Shader]: https://www.youtube.com/watch?v=4H5W6C_Mbck
 [Lighting Course]: https://www.youtube.com/playlist?list=PLjEaoINr3zgH9vCr47kSS5W8PEJBNIiwK
 [The Secret Ingredient to Photorealism]: https://www.youtube.com/watch?v=m9AT7H4GGrA
 [The Power of Lighting]: https://www.youtube.com/watch?v=ElMM3u2MO5k
+[Donut Tutorial: Compositing]: https://www.youtube.com/watch?v=wlmq6EXzzzw
+[Introduction to Compositing]: https://www.youtube.com/watch?v=bIZrTXtyQkY
+[12 Awesome Compositor Effects]: https://www.youtube.com/watch?v=8x2qfWNHedM
 [Composition for Artists]: https://www.youtube.com/playlist?list=PLV2X3tgajVlHEWoxhxHBV5JyU7R80LT9R
 [Understanding Composition]: https://www.youtube.com/watch?v=O8i7OKbWmRM
 [Composition for Noobs]: https://www.youtube.com/watch?v=9VVzCr3c9Jk

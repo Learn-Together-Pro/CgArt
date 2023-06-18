@@ -3,6 +3,7 @@
 ## Materials and Shaders
 
 - ❌ [How to make Photorealistic Materials, using the Principled Shader][How to make Photorealistic Materials, using the Principled Shader]
+- ❌ [Photorealistic Puddles][Photorealistic Puddles]
 
 ## Light
 
@@ -44,6 +45,7 @@
 ## Links
 
 [How to make Photorealistic Materials, using the Principled Shader]: https://www.youtube.com/watch?v=4H5W6C_Mbck
+[Photorealistic Puddles]: https://www.youtube.com/watch?v=TxYVMw94FXE
 [Lighting Course]: https://www.youtube.com/playlist?list=PLjEaoINr3zgH9vCr47kSS5W8PEJBNIiwK
 [The Secret Ingredient to Photorealism]: https://www.youtube.com/watch?v=m9AT7H4GGrA
 [The Power of Lighting]: https://www.youtube.com/watch?v=ElMM3u2MO5k

@@ -18,6 +18,7 @@ Curated collection of lists of useful resources to master CG Art together.
 ( _material_ )
 
 - [How to make Photorealistic Materials, using the Principled Shader](https://www.youtube.com/watch?v=4H5W6C_Mbck) by [Andrew Price](https://www.youtube.com/@blenderguru) :movie_camera: ( _blender_ ) : tutorial on Principled BSDF
+- [Photorealistic Puddles](https://www.youtube.com/watch?v=TxYVMw94FXE) by [Andrew Price](https://www.youtube.com/@blenderguru) :movie_camera: ( _blender_ )
 - [Blender Procedural Material Tutorials](https://www.youtube.com/playlist?list=PLsGl9GczcgBs6TtApKKK-L_0Nm6fovNPk) by [Ryan King](https://www.youtube.com/@RyanKingArt) :movie_camera: ( _blender_ ) : collection of not related tutorials on materials and shaders
 
 ## Modeling

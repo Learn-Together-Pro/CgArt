@@ -56,7 +56,7 @@
 [Understanding Composition]: https://www.youtube.com/watch?v=O8i7OKbWmRM
 [Composition for Noobs]: https://www.youtube.com/watch?v=9VVzCr3c9Jk
 [Composition Tips]: https://www.youtube.com/watch?v=JuEkb6FNptE
-[7 Tips for Composition Design]: https://www.youtube.com/watch?v=JuEkb6FNptE
+[7 Tips for Composition Design]: https://www.youtube.com/watch?v=ur37AAQDsb8
 [Take your Blender Cinematography to the Next Level]: https://www.youtube.com/watch?v=h3ouYgJ0hUk
 [Color Theory for Noobs]: https://www.youtube.com/watch?v=AvgCkHrcj90
 [Understanding Color]: https://www.youtube.com/watch?v=Qj1FK8n7WgY

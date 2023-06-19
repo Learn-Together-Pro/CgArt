@@ -73,3 +73,6 @@ Key concepts of CG Art
 
 ##### Dynamic Range ~ f-stops
 : ...
+
+##### IES
+: ...

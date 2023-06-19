@@ -36,6 +36,7 @@ Curated collection of lists of useful resources to master CG Art together.
 - [Lighting Course](https://www.youtube.com/playlist?list=PLjEaoINr3zgH9vCr47kSS5W8PEJBNIiwK) by [Andrew Price](https://www.youtube.com/@blenderguru) :mortar_board: :movie_camera: ( _blender_ ) : legendary beginner tutorial
 - [The Secret Ingredient to Photorealism](https://www.youtube.com/watch?v=m9AT7H4GGrA) by [Andrew Price](https://www.youtube.com/@blenderguru) :movie_camera: ( _blender_ ) ( _color_ ) ( _light_ )
 - [The Power of Lighting](https://www.youtube.com/watch?v=ElMM3u2MO5k) by [Kaizen Tutorials](https://www.youtube.com/@KaizenTutorials) :movie_camera: ( _blender_ ) ( _light_ )
+- [Modern Lighting Techniques](https://www.youtube.com/watch?v=y6WKm62mhIo) by [Ducky 3D](https://www.youtube.com/@TheDucky3D) :movie_camera: ( _blender_ ) ( _light_ )
 
 ## Post-effects and Compositing
 
@@ -113,8 +114,8 @@ Curated collection of lists of useful resources to master CG Art together.
 
 :open_file_folder:
 
-- [Andrew Price](https://www.youtube.com/@blenderguru) :open_file_folder: :movie_camera: ( _blender_ )
-- [CG Cookie](https://www.youtube.com/@cg_cookie) :open_file_folder: :movie_camera: ( _blender_ )
+- :star: [Andrew Price](https://www.youtube.com/@blenderguru) :open_file_folder: :movie_camera: ( _blender_ )
+- :star: [CG Cookie](https://www.youtube.com/@cg_cookie) :open_file_folder: :movie_camera: ( _blender_ )
 - [The CG Essentials](https://www.youtube.com/@TheCGEssentials) :open_file_folder: :movie_camera: ( _blender_ )
 - [Grant Abbitt](https://www.youtube.com/@grabbitt) :open_file_folder: :movie_camera: ( _blender_ ) : lots of ideas for inspirations and tutorials
 - [Kaizen Tutorials](https://www.youtube.com/@KaizenTutorials) :open_file_folder: :movie_camera: ( _blender_ ) : tutorials on hot topics

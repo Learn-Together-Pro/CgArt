@@ -35,6 +35,8 @@
 - ❌ 6 different color schemas
 - ❌ 4 different set of post-effects to make it look completely different
 - ❌ 4 different lighting techniques with simple scenes, [check out][Modern Lighting Techniques]
+- - 1 uses IES
+- ❌ 4 different gobo lighting techniques, [check out][The Power of Lighting]
 - ❌ 4 different focal points
 - ❌ 4 different structures
 - ❌ 4 different balance

@@ -28,6 +28,8 @@ Curated collection of lists of useful resources to master CG Art together.
 - [Intermediate Blender Tutorial Series](https://www.youtube.com/playlist?list=PLjEaoINr3zgHJVJF3T3CFUAZ6z11jKg6a) by [Andrew Price](https://www.youtube.com/@blenderguru) :mortar_board: :movie_camera: ( _blender_ ) ( _modeling_ ) ( _texturing_ ) : course on modeling and texturing
 - [Learning and Understanding Topology](https://www.youtube.com/playlist?list=PL3GeP3YLZn5irhqsD6_Srf-CeimYPonaK) by [CG Cookie](https://www.youtube.com/@cg_cookie) :mortar_board: :movie_camera: ( _blender_ ) ( _modeling_ ) : course on modeling and topology
 - [Hard Surface Modeling](https://www.youtube.com/playlist?list=PLJrcFnBj2iIjqa_i2cANHvQ-8YdW4IxaG) by [Ponte Ryuurui](https://www.youtube.com/@PonteRyuurui) :movie_camera: ( _blender_ ) ( _modeling_ ) ( _modeling_hardsurface_ )
+- [Get Good in Blender](https://www.youtube.com/playlist?list=PLn3ukorJv4vvv3ZpWJYvV5Tmvo7ISO-NN) by [Grant Abbitt](https://www.youtube.com/@grabbitt) :mortar_board: :movie_camera: ( _blender_ ) ( _modeling_ )
+- [Low Poly Modelling](https://www.youtube.com/playlist?list=PLn3ukorJv4vsPy9J9x4--pat6jaPqNm11) by [Grant Abbitt](https://www.youtube.com/@grabbitt) :mortar_board: :movie_camera: ( _blender_ ) ( _modeling_ ) ( _modeling_lowpoly_ )
 
 ## Light
 
@@ -160,6 +162,7 @@ Curated collection of lists of useful resources to master CG Art together.
 - ( _material_ ) - materials and shaders
 - ( _modeling_ ) modeling
 - ( _modeling_hardsurface_ ) - modeling hardsurface
+- ( _modeling_lowpoly_ ) - modeling low polygon models
 - ( _light_ ) - light
 - ( _texturing_ ) texturing
 - ( _interior_ ) interior design

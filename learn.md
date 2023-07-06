@@ -118,6 +118,7 @@ Curated collection of lists of useful resources to master CG Art together.
 
 - :star: [Andrew Price](https://www.youtube.com/@blenderguru) :open_file_folder: :movie_camera: ( _blender_ )
 - :star: [CG Cookie](https://www.youtube.com/@cg_cookie) :open_file_folder: :movie_camera: ( _blender_ )
+- [CG Geek](https://www.youtube.com/@CGGeek) :open_file_folder: :movie_camera: ( _blender_ )
 - [The CG Essentials](https://www.youtube.com/@TheCGEssentials) :open_file_folder: :movie_camera: ( _blender_ )
 - [Grant Abbitt](https://www.youtube.com/@grabbitt) :open_file_folder: :movie_camera: ( _blender_ ) : lots of ideas for inspirations and tutorials
 - [Kaizen Tutorials](https://www.youtube.com/@KaizenTutorials) :open_file_folder: :movie_camera: ( _blender_ ) : tutorials on hot topics

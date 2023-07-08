@@ -1,0 +1,13 @@
+# Guidelines for Success
+
+## Practice and Paсe
+
+Remember to **follow along** with the instructor in the video during your lecture sessions. Try not just to replicate their steps, but also to **experiment** and explore variations on the model they demonstrate. Dive into the realm of possibilities and discover what you can create. After the lecture, don't delay - get hands-on and start working on your objectives **immediately**. Postponing practice until after all the videos are watched could hinder your learning progress. To learning **every day**, don't pause learning process for longer than day.
+
+## Efficiency
+
+The amount of time you dedicate to your work is often more crucial than the perfection of the final product. To streamline your workflow, **install Google Drive**. This tool will save you significant time as it eliminates the need to constantly upload or download files. Familiarize yourself with **keyboard shortcuts** to further improve your efficiency.
+
+## Quality and Aesthetics
+
+Aim to produce work of a high standard that's aesthetically pleasing, **ready for production**, and worthy of inclusion in your portfolio. Do not rush through objectives with the sole intention of ticking them off your list. Each piece of work you produce is a reflection of your capabilities, so make sure it's something you're proud of.

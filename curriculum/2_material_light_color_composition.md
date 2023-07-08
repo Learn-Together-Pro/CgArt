@@ -32,15 +32,15 @@
 
 ## Objectives
 
-- ❌ 6 different color schemas
-- ❌ 4 different set of post-effects to make it look completely different
-- ❌ 4 different lighting techniques with simple scenes, [check out][Modern Lighting Techniques]
-- - 1 uses IES
-- ❌ 4 different gobo lighting techniques, [check out][The Power of Lighting]
-- ❌ 4 different focal points
-- ❌ 4 different structures
-- ❌ 4 different balance
-- ❌ 4 different moods
+2.1. ❌ 6 different color schemas
+2.2. ❌ 4 different set of post-effects to make it look completely different
+2.3. ❌ 4 different lighting techniques with simple scenes, [check out][Modern Lighting Techniques]
+2.3.b ❌1 uses IES
+2.4. ❌ 4 different gobo lighting techniques, [check out][The Power of Lighting]
+2.5. ❌ 4 different focal points
+2.6. ❌ 4 different structures
+2.7. ❌ 4 different balance
+2.8. ❌ 4 different moods
 
 ## Research
 

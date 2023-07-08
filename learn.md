@@ -39,6 +39,7 @@ Curated collection of lists of useful resources to master CG Art together.
 - [The Secret Ingredient to Photorealism](https://www.youtube.com/watch?v=m9AT7H4GGrA) by [Andrew Price](https://www.youtube.com/@blenderguru) :movie_camera: ( _blender_ ) ( _color_ ) ( _light_ )
 - [The Power of Lighting](https://www.youtube.com/watch?v=ElMM3u2MO5k) by [Kaizen Tutorials](https://www.youtube.com/@KaizenTutorials) :movie_camera: ( _blender_ ) ( _light_ )
 - [Modern Lighting Techniques](https://www.youtube.com/watch?v=y6WKm62mhIo) by [Ducky 3D](https://www.youtube.com/@TheDucky3D) :movie_camera: ( _blender_ ) ( _light_ )
+- [Tutorial Gobos Light Textures](https://www.youtube.com/watch?v=Qh7tr4ohDGc) by [B Production](https://www.youtube.com/@bproduction1488/videos) [:movie_camera:](https://www.youtube.com/watch?v=Qh7tr4ohDGc) [🔽](https://blendermarket.com/products/gobos) :moneybag: ( _blender_ ) ( _light_ ) ( _addon_ )
 
 ## Post-effects and Compositing
 
@@ -66,24 +67,51 @@ Curated collection of lists of useful resources to master CG Art together.
 
 - [Walk Cycles - The Fastest Method](https://www.youtube.com/watch?v=e_COc0ZVHr0) by [Mark Masters](https://www.youtube.com/@MarkMastersAnim) :mortar_board: :movie_camera: ( _blender_ ) ( _rigging_ )
 
-## Productivity Optimization
+## Render-time Optimization
 
 ( _productivity_ )
 
 - [Tutorial on Render Time Optimization](https://www.youtube.com/watch?v=JCLSJg9sdNI) by [Andrew Price](https://www.youtube.com/@blenderguru) :movie_camera: ( _blender_ ) ( _productivity_ ) ( _render_time_ )
 - [5 Tips for FASTER Renders Cycles](https://www.youtube.com/watch?v=VEdd9CynwQU) by [Kaizen Tutorials](https://www.youtube.com/@KaizenTutorials) :movie_camera: ( _blender_ ) ( _productivity_ ) ( _render_time_ )
-- [Blender Settings I wish I knew Before!](https://www.youtube.com/watch?v=fcgctjmfhc8) by [Kaizen Tutorials](https://www.youtube.com/@KaizenTutorials) :movie_camera: ( _blender_ ) ( _productivity_ ) : several settings and plugins worth be mentioned
-- [11 Blender Tips that will make you a Better CG Artist!](https://www.youtube.com/watch?v=944D33KvhmA) by [Kaizen Tutorials](https://www.youtube.com/@KaizenTutorials) :movie_camera: ( _blender_ ) ( _productivity_ ) : several settings and plugins worth be mentioned
 
-## Aesthetics in General
+## Productivity Tips
+
+( _productivity_ ) ( _advanced_ )
+
+- [Blender Settings I wish I knew Before!](https://www.youtube.com/watch?v=fcgctjmfhc8) by [Kaizen Tutorials](https://www.youtube.com/@KaizenTutorials) :movie_camera: ( _blender_ ) ( _productivity_ ) : several settings and addons worth be mentioned
+- [11 Blender Tips that will make you a Better CG Artist!](https://www.youtube.com/watch?v=944D33KvhmA) by [Kaizen Tutorials](https://www.youtube.com/@KaizenTutorials) :movie_camera: ( _blender_ ) : several settings worth to be mentioned
+- [16 Blender Tips That Made Me Pro](https://www.youtube.com/watch?v=Y8QGgOvwa94) by [Chocofur](https://www.youtube.com/@Chocofur) :movie_camera: ( _blender_ ) ( _composition_ ) ( _light_ ) ( _productivity_ ) : advanced advices on aesthetics and composition
+
+## Addons
+
+( _addon_ )
+
+- [Tutorial Gobos Light Textures](https://www.youtube.com/watch?v=Qh7tr4ohDGc) by [B Production](https://www.youtube.com/@bproduction1488/videos) [:movie_camera:](https://www.youtube.com/watch?v=Qh7tr4ohDGc) [🔽](https://blendermarket.com/products/gobos) :moneybag: ( _blender_ ) ( _light_ ) ( _addon_ )
+
+## Aesthetics in General: Composition
 
 ( _aesthetics_ )
 
 - [Composition for Artists](https://www.youtube.com/playlist?list=PLV2X3tgajVlHEWoxhxHBV5JyU7R80LT9R) by [Sycra](https://www.youtube.com/@Sycra) :movie_camera: ( _composition_ )
 - [Understanding Composition](https://www.youtube.com/watch?v=O8i7OKbWmRM) by [Andrew Price](https://www.youtube.com/@blenderguru) :movie_camera: ( _composition_ )
+- [Understanding Composition](https://www.picturecorrect.com/the-ultimate-guide-to-understanding-composition/) :page_facing_up: ( _composition_ )
 - [Composition for Noobs](https://www.youtube.com/watch?v=9VVzCr3c9Jk) by [Julian Ball](https://www.youtube.com/@FlowStudio) :movie_camera: ( _composition_ )
 - [10 Composition Tips](https://www.youtube.com/watch?v=JuEkb6FNptE) by [Tyler Edlin](https://www.youtube.com/@TylerEdlin84) :movie_camera: ( _composition_ )
 - [7 Tips for Composition Design](https://www.youtube.com/watch?v=ur37AAQDsb8) by [Tyler Edlin](https://www.youtube.com/@TylerEdlin84) :movie_camera: ( _composition_ )
+- [Primary, Secondary And Tertiary Shapes](https://www.youtube.com/watch?v=6IojuePYIHo) by [ArtOfSoulburn](https://www.youtube.com/@ArtOfSoulburn/videos) :movie_camera: ( _composition_ )
+- [Primary, Secondary And Tertiary Shapes](https://web.archive.org/web/20201207145016/http://www.neilblevins.com/cg_education/primary_secondary_and_tertiary_shapes/primary_secondary_and_tertiary_shapes.htm) by [ArtOfSoulburn](https://www.youtube.com/@ArtOfSoulburn/videos) :page_facing_up: ( _composition_ )
+- [The Secret of Making High-Quality Art](https://www.youtube.com/watch?v=qMH_J_vcoqE) by [Blender](https://www.youtube.com/@BlenderOfficial) :movie_camera: ( _composition_ )
+- [Composition Types](https://www.youtube.com/watch?v=Xbveb0QoZq4) by [ArtOfSoulburn](https://www.youtube.com/@ArtOfSoulburn/videos) :movie_camera: ( _composition_ )
+- [Composition Types](https://digitaltutorials.tumblr.com/post/93875580694/this-article-was-written-by-phil-straub-back-in) by [Phil Straub](https://digitaltutorials.tumblr.com/) :page_facing_up: ( _composition_ )
+- [Clumping And Grouping](https://www.youtube.com/watch?v=zYwfWcAAdIE) by [ArtOfSoulburn](https://www.youtube.com/@ArtOfSoulburn/videos) :movie_camera: ( _composition_ )
+- [Creating Focal Points And Visual Paths](https://www.youtube.com/watch?v=MX59j9yhezw) by [ArtOfSoulburn](https://www.youtube.com/@ArtOfSoulburn/videos) :movie_camera: ( _composition_ )
+- [Contrasts In Composition](https://www.youtube.com/watch?v=ocuFrOD1qEc) by [ArtOfSoulburn](https://www.youtube.com/@ArtOfSoulburn/videos) :movie_camera: ( _composition_ )
+- [What is a Tangent?](https://www.youtube.com/watch?v=nVOcfcjN1cM) by [ArtOfSoulburn](https://www.youtube.com/@ArtOfSoulburn/videos) :movie_camera: ( _composition_ )
+
+## Aesthetics in General: Color Theory
+
+( _aesthetics_ ) ( _color_ )
+
 - [Color Theory for Noobs](https://www.youtube.com/watch?v=AvgCkHrcj90) by [Julian Ball](https://www.youtube.com/@FlowStudio) :movie_camera: ( _color_ )
 - [Understanding Color](https://www.youtube.com/watch?v=Qj1FK8n7WgY) by [Andrew Price](https://www.youtube.com/@blenderguru) :movie_camera: ( _color_ )
 - [Composition and Harmony](https://www.youtube.com/watch?v=p0rVUhXnmpY) by [Florent Farges](https://www.youtube.com/@FlorentFargesarts) :movie_camera: ( _color_ )
@@ -94,7 +122,6 @@ Curated collection of lists of useful resources to master CG Art together.
 
 - [The Secret Ingredient to Photorealism](https://www.youtube.com/watch?v=m9AT7H4GGrA) by [Andrew Price](https://www.youtube.com/@blenderguru) :movie_camera: ( _composition_ ) ( _color_ ) ( _light_ )
 - [Take your Blender Cinematography to the Next Level](https://www.youtube.com/watch?v=h3ouYgJ0hUk) by [Kaizen Tutorials](https://www.youtube.com/@KaizenTutorials) :movie_camera: ( _camera_ )
-- [16 Blender Tips That Made Me Pro](https://www.youtube.com/watch?v=Y8QGgOvwa94) by [Chocofur](https://www.youtube.com/@Chocofur) :movie_camera: ( _composition_ ) ( _light_ ) : advanced advices on aesthetics and composition
 
 ## Ideas for Inspiration
 
@@ -111,6 +138,7 @@ Curated collection of lists of useful resources to master CG Art together.
 
 - [How to Draw and Paint](https://www.youtube.com/playlist?list=PL0373FA2B3CD4C899) by [Sycra](https://www.youtube.com/@Sycra) :movie_camera: ( _drawing_ ) : tutorials on drawing
 - [Course on Drawing](https://www.gamedev.tv/p/complete-drawing/?coupon_code=GRABBITT) by [Grant Abbitt](https://www.youtube.com/@grabbitt) :mortar_board: :movie_camera: :moneybag: ( _drawing_ )
+- [Draw the Effect of Detail](https://www.youtube.com/playlist?list=PLwjv2r1KZs1RdXpapYftk9ajpX4uq5BeS) by [Stephen Travers](https://www.youtube.com/@stephentraversart) :mortar_board: :movie_camera: ( _drawing_ )
 
 ## Collections of collections on Blender
 
@@ -118,21 +146,31 @@ Curated collection of lists of useful resources to master CG Art together.
 
 - :star: [Andrew Price](https://www.youtube.com/@blenderguru) :open_file_folder: :movie_camera: ( _blender_ )
 - :star: [CG Cookie](https://www.youtube.com/@cg_cookie) :open_file_folder: :movie_camera: ( _blender_ )
+- :star: [Ryan King Art](https://www.youtube.com/@RyanKingArt) :open_file_folder: :movie_camera: ( _blender_ )
 - [CG Geek](https://www.youtube.com/@CGGeek) :open_file_folder: :movie_camera: ( _blender_ )
 - [The CG Essentials](https://www.youtube.com/@TheCGEssentials) :open_file_folder: :movie_camera: ( _blender_ )
+- [Imphenzia](https://www.youtube.com/@Imphenzia) :open_file_folder: :movie_camera: ( _blender_ )
 - [Grant Abbitt](https://www.youtube.com/@grabbitt) :open_file_folder: :movie_camera: ( _blender_ ) : lots of ideas for inspirations and tutorials
 - [Kaizen Tutorials](https://www.youtube.com/@KaizenTutorials) :open_file_folder: :movie_camera: ( _blender_ ) : tutorials on hot topics
 - [Chocofur](https://www.youtube.com/@Chocofur) :open_file_folder: :movie_camera: ( _blender_ ) : advanced advices and interior design
 - [Ponte Ryuurui](https://www.youtube.com/@PonteRyuurui) :open_file_folder: :movie_camera: ( _blender_ ) ( _modeling_ ) ( _modeling_hardsurface_ ) : tutorials on subsurface modeling
 - [Jacob](https://www.youtube.com/@InLightVFX) :open_file_folder: :movie_camera: ( _blender_ ) ( _vfx_ ) : tutorials on visual effects
 - [LightArchitect](https://www.youtube.com/@LightArchitect) :open_file_folder: :movie_camera: ( _blender_ ) ( _vfx_ ) ( _environment_ ) : mostly visual effects and environment
-- [Max Hay](https://www.youtube.com/@maxhayart/videos) :open_file_folder: :movie_camera: ( _blender_ ) ( _compositions_ ) : advanced tutorials on composition
+- [Max Hay](https://www.youtube.com/@maxhayart) :open_file_folder: :movie_camera: ( _blender_ ) ( _compositions_ ) : advanced tutorials on composition
+
+## Collections of collections on Esthetics
+
+- :star: [ArtOfSoulburn](https://www.youtube.com/@ArtOfSoulburn/videos) :open_file_folder: :movie_camera: ( _aesthetics_ )
+- [Tyler Edlin](https://www.youtube.com/@TylerEdlin84/videos) :open_file_folder: :movie_camera: ( _drawing_ ) ( _aesthetics_ )
+- [Sycra](https://www.youtube.com/@Sycra) :open_file_folder: :movie_camera: ( _drawing_ ) ( _aesthetics_ )
+- [Drawing & Painting](https://www.youtube.com/@thevirtualinstructor/videos) :open_file_folder: :movie_camera: ( _drawing_ ) ( _aesthetics_ ) : tutorials on drawing and composition
 
 ## Collections of collections on Drawing
 
 :open_file_folder:
 
-- [Sycra](https://www.youtube.com/@Sycra) :open_file_folder: :movie_camera: ( _blender_ )
+- [Sycra](https://www.youtube.com/@Sycra) :open_file_folder: :movie_camera: ( _drawing_ ) ( _aesthetics_ )
+- [Drawing & Painting](https://www.youtube.com/@thevirtualinstructor/videos) :open_file_folder: :movie_camera: ( _drawing_ ) ( _aesthetics_ ) : tutorials on drawing and composition
 
 ## Tags legend
 
@@ -149,6 +187,7 @@ Curated collection of lists of useful resources to master CG Art together.
 - :page_facing_up: - either single article or single video-tutorial
 - :building_construction: - ideas for inspiration of mini-projects to add to your portfolio
 - :moneybag: - paid
+- 🔽 - download
 - ( _official_ ) - official material
 - ( _interactive_ ) - it is possible to interact and get feedback from the system
 - ( _blog_ ) - blogs
@@ -172,6 +211,8 @@ Curated collection of lists of useful resources to master CG Art together.
 - ( _color_ ) - color theory
 - ( _drawing_ ) - teach to draw and paint
 - ( _productivity_ ) - productivity optimization
+- ( _advanced_ ) - more advanced material, skip at the beginning
+- ( _addon_ ) - addons
 - ( _render_time_ ) - render time optimization
 - ( _vfx_ ) - visual effects
 - ( _environment_ ) - environment

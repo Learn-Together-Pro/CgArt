@@ -93,6 +93,8 @@ Curated collection of lists of useful resources to master CG Art together.
 - [The Secret Ingredient to Photorealism](https://www.youtube.com/watch?v=m9AT7H4GGrA) by [Andrew Price](https://www.youtube.com/@blenderguru) :movie_camera: ( _blender_ ) ( _color_ ) ( _light_ )
 - [The Power of Lighting](https://www.youtube.com/watch?v=ElMM3u2MO5k) by [Kaizen Tutorials](https://www.youtube.com/@KaizenTutorials) :movie_camera: ( _blender_ ) ( _light_ )
 - [Modern Lighting Techniques](https://www.youtube.com/watch?v=y6WKm62mhIo) by [Ducky 3D](https://www.youtube.com/@TheDucky3D) :movie_camera: ( _blender_ ) ( _light_ )
+- [How to Make Studio Lighting](https://www.youtube.com/watch?v=5UCc3Z_-ibs) by [Andrew Price](https://www.youtube.com/@blenderguru) :movie_camera: ( _blender_ ) ( _light_ )
+- [How to create a professional Studio Lighting](https://www.youtube.com/watch?v=CCmV1X8t2SQ) by [Andrew Price](https://www.youtube.com/@blenderguru) :movie_camera: ( _blender_ ) ( _light_ )
 - [Tutorial Gobos Light Textures](https://www.youtube.com/watch?v=Qh7tr4ohDGc) by [B Production](https://www.youtube.com/@bproduction1488/videos) [:movie_camera:](https://www.youtube.com/watch?v=Qh7tr4ohDGc) [🔽](https://blendermarket.com/products/gobos) :moneybag: ( _blender_ ) ( _light_ ) ( _addon_ )
 
 ## Post-effects and Compositing

@@ -11,6 +11,8 @@
 - ❌ [The Secret Ingredient to Photorealism](https://www.youtube.com/watch?v=m9AT7H4GGrA)
 - ❌ [The Power of Lighting](https://www.youtube.com/watch?v=ElMM3u2MO5k)
 - ❌ [Modern Lighting Techniques](https://www.youtube.com/watch?v=y6WKm62mhIo)
+- ❌ [How to Make Studio Lighting](https://www.youtube.com/watch?v=5UCc3Z_-ibs)
+- ❌ [How to create a professional Studio Lighting](https://www.youtube.com/watch?v=CCmV1X8t2SQ)
 - ❌ [Tutorial Gobos Light Textures](https://www.youtube.com/watch?v=Qh7tr4ohDGc)
 
 ## Post-effects
@@ -69,5 +71,6 @@
 ## Research
 
 - ❌ Tool for color schema analyzes
+- ❌ Find source of [product renderings](https://youtu.be/y6WKm62mhIo?t=64)
 
 ## Links

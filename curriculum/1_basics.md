@@ -1,6 +1,6 @@
 # Basics
 
-It's expected that you've already took [iconic course](https://www.youtube.com/playlist?list=PLjEaoINr3zgFX8ZsChQVQsuDSjEqdWMAD) of Blender Guru.
+It's expected that you've already took [iconic course](https://www.youtube.com/playlist?list=PLjEaoINr3zgFX8ZsChQVQsuDSjEqdWMAD) of Blender Guru as well as a course on modeling.
 
 ## Blender Basics
 
@@ -15,7 +15,7 @@ It's expected that you've already took [iconic course](https://www.youtube.com/p
 
 - ❌ [Learn Low Poly Modeling](https://www.youtube.com/watch?v=1jHUY3qoBu8)
 - ❌ [Low Poly City Assets](https://www.youtube.com/watch?v=UFws4TM5u6o)
-- ❌ [Low Poly Modelling](https://www.youtube.com/playlist?list=PLn3ukorJv4vsPy9J9x4--pat6jaPqNm11)
+- ❌ [Low Poly Modeling](https://www.youtube.com/playlist?list=PLn3ukorJv4vsPy9J9x4--pat6jaPqNm11)
 
 ## Git Basics
 

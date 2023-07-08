@@ -54,18 +54,6 @@
 - ❌ [The Secret Ingredient to Photorealism](https://www.youtube.com/watch?v=m9AT7H4GGrA)
 - ❌ [Take your Blender Cinematography to the Next Level](https://www.youtube.com/watch?v=h3ouYgJ0hUk)
 
-## Aesthetics
-
-- ❌ [Composition for Artists][Composition for Artists]
-- ❌ [Understanding Composition][Understanding Composition]
-- ❌ [Composition for Noobs][Composition for Noobs]
-- ❌ [Composition Tips][Composition Tips]
-- ❌ [7 Tips for Composition Design][7 Tips for Composition Design]
-- ❌ [Take your Blender Cinematography to the Next Level][Take your Blender Cinematography to the Next Level]
-- ❌ [Color Theory for Noobs][Color Theory for Noobs]
-- ❌ [Understanding Color][Understanding Color]
-- ❌ [Composition and Harmony][Composition and Harmony]
-
 ## Objectives
 
 - 2.1. ❌ 6 different color schemas

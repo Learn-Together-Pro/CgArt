@@ -38,7 +38,7 @@ Curated collection of lists of useful resources to master CG Art together.
 
 - [Learn Low Poly Modeling](https://www.youtube.com/watch?v=1jHUY3qoBu8) by [Imphenzia](https://www.youtube.com/@Imphenzia) :movie_camera: ( _blender_ ) ( _modeling_ ) ( _modeling_lowpoly_ )
 - [Low Poly City Assets](https://www.youtube.com/watch?v=UFws4TM5u6o) by [Ryan King Art](https://www.youtube.com/@RyanKingArt) :movie_camera: ( _blender_ ) ( _modeling_ ) ( _modeling_lowpoly_ )
-- [Low Poly Modelling](https://www.youtube.com/playlist?list=PLn3ukorJv4vsPy9J9x4--pat6jaPqNm11) by [Grant Abbitt](https://www.youtube.com/@grabbitt) :mortar_board: :movie_camera: ( _blender_ ) ( _modeling_ ) ( _modeling_lowpoly_ )
+- [Low Poly Modeling](https://www.youtube.com/playlist?list=PLn3ukorJv4vsPy9J9x4--pat6jaPqNm11) by [Grant Abbitt](https://www.youtube.com/@grabbitt) :mortar_board: :movie_camera: ( _blender_ ) ( _modeling_ ) ( _modeling_lowpoly_ )
 
 ## Modeling Course
 

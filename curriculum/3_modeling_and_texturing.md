@@ -4,7 +4,7 @@
 
 - ❌ [Learn Low Poly Modeling](https://www.youtube.com/watch?v=1jHUY3qoBu8)
 - ❌ [Low Poly City Assets](https://www.youtube.com/watch?v=UFws4TM5u6o)
-- ❌ [Low Poly Modelling](https://www.youtube.com/playlist?list=PLn3ukorJv4vsPy9J9x4--pat6jaPqNm11)
+- ❌ [Low Poly Modeling](https://www.youtube.com/playlist?list=PLn3ukorJv4vsPy9J9x4--pat6jaPqNm11)
 
 ## Modeling Course
 

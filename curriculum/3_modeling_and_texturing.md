@@ -19,6 +19,12 @@
 - ❌ [Blender Texture Painting](https://www.youtube.com/playlist?list=PLsGl9GczcgBsVJWWIEWDBhRtDOA1mUF3i)
 - ❌ [Organic Unwrapping in Blender](https://www.youtube.com/watch?v=hyzLjXw8RFk)
 
+## Retopology
+
+- ❌ [Texture Baking Blender Tutorials](https://www.youtube.com/playlist?list=PLsGl9GczcgBvJPh7D_ITafvmTW7ZzQTEr)
+- ❌ [Convert Material Displacement to a Mesh](https://www.youtube.com/watch?v=McALCOr39rY)
+- ❌ [Learn Retopology](https://www.youtube.com/playlist?list=PLn3ukorJv4vs8PQj8z_PMbZAVLFEhQF5L)
+
 ## Objectives
 
 <!-- - 2.1. ❌ 6 different color schemas -->

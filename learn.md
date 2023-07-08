@@ -51,14 +51,16 @@ Curated collection of lists of useful resources to master CG Art together.
 
 ## Modeling Collection
 
+( _modeling_ )
+
 - [Hard Surface Modeling](https://www.youtube.com/playlist?list=PLJrcFnBj2iIjqa_i2cANHvQ-8YdW4IxaG) by [Ponte Ryuurui](https://www.youtube.com/@PonteRyuurui) :movie_camera: ( _blender_ ) ( _modeling_ ) ( _modeling_hardsurface_ )
 
 ## Interior Design
 
-( _interior_ )
+( _modeling_ ) ( _interior_ )
 
 - [Architectural Modeling Tutorials and Tools](https://www.youtube.com/playlist?list=PL0LADxPpmXN4cdyX_Kg1Tmfj5fj_eVziZ) by [The CG Essentials](https://www.youtube.com/@TheCGEssentials) :mortar_board: :movie_camera: ( _blender_ ) ( _modeling_ ) ( _interior_ ) : course on modeling and texturing
-- [Interior Visualization](https://www.youtube.com/playlist?list=PLYVR0A4acpNaFiTL-qmxH8fm4DJxqq-vp) by [Chocofur](https://www.youtube.com/@Chocofur) :mortar_board: :movie_camera: ( _blender_ ) ( _interior_ ) : course on modeling and texturing
+- [Interior Visualization](https://www.youtube.com/playlist?list=PLYVR0A4acpNaFiTL-qmxH8fm4DJxqq-vp) by [Chocofur](https://www.youtube.com/@Chocofur) :mortar_board: :movie_camera: ( _blender_ ) ( _modeling_ ) ( _interior_ ) : course on modeling and texturing
 
 ## Texturing
 
@@ -67,6 +69,14 @@ Curated collection of lists of useful resources to master CG Art together.
 - [Learn Texture Painting](https://www.youtube.com/playlist?list=PLn3ukorJv4vtvjZvdiOeoSA5kBohtnDOF) by [Grant Abbitt](https://www.youtube.com/@grabbitt) :mortar_board: :movie_camera: ( _blender_ ) ( _texturing_ )
 - [Blender Texture Painting](https://www.youtube.com/playlist?list=PLsGl9GczcgBsVJWWIEWDBhRtDOA1mUF3i) by [Ryan King Art](https://www.youtube.com/@RyanKingArt) :mortar_board: :movie_camera: ( _blender_ ) ( _texturing_ )
 - [Organic Unwrapping in Blender](https://www.youtube.com/watch?v=hyzLjXw8RFk) by [ Outgang ](https://www.youtube.com/@Outgang/videos) :movie_camera: ( _blender_ ) ( _texturing_ )
+
+## Retopology / Retexturing / Baking
+
+( _retopology_ )
+
+- [Texture Baking Blender Tutorials](https://www.youtube.com/playlist?list=PLsGl9GczcgBvJPh7D_ITafvmTW7ZzQTEr) by [Ryan King Art](https://www.youtube.com/@RyanKingArt) :mortar_board: :movie_camera: ( _blender_ ) ( _retopology_ ) ( _baking_ )
+- [Convert Material Displacement to a Mesh](https://www.youtube.com/watch?v=McALCOr39rY) by [CG Cookie](https://www.youtube.com/@cg_cookie) :movie_camera: ( _blender_ ) ( _retopology_ ) ( _baking_ )
+- [Learn Retopology](https://www.youtube.com/playlist?list=PLn3ukorJv4vs8PQj8z_PMbZAVLFEhQF5L) by [Grant Abbitt](https://www.youtube.com/@grabbitt) :mortar_board: :movie_camera: ( _blender_ ) ( _retopology_ )
 
 ## Rigging
 
@@ -99,6 +109,7 @@ Curated collection of lists of useful resources to master CG Art together.
 
 - [Tutorial on Render Time Optimization](https://www.youtube.com/watch?v=JCLSJg9sdNI) by [Andrew Price](https://www.youtube.com/@blenderguru) :movie_camera: ( _blender_ ) ( _productivity_ ) ( _render_time_ )
 - [5 Tips for FASTER Renders Cycles](https://www.youtube.com/watch?v=VEdd9CynwQU) by [Kaizen Tutorials](https://www.youtube.com/@KaizenTutorials) :movie_camera: ( _blender_ ) ( _productivity_ ) ( _render_time_ )
+- [5 Tips for FASTER Renders Cycles](https://www.youtube.com/watch?v=FNiobzflmpA) by [David Kohlmann](https://www.youtube.com/@davidkohlmann/videos) :movie_camera: ( _blender_ ) ( _productivity_ ) ( _render_time_ )
 
 ## Productivity Tips
 
@@ -183,6 +194,7 @@ Curated collection of lists of useful resources to master CG Art together.
 - [Jacob](https://www.youtube.com/@InLightVFX) :open_file_folder: :movie_camera: ( _blender_ ) ( _vfx_ ) : tutorials on visual effects
 - [LightArchitect](https://www.youtube.com/@LightArchitect) :open_file_folder: :movie_camera: ( _blender_ ) ( _vfx_ ) ( _environment_ ) : mostly visual effects and environment
 - [Max Hay](https://www.youtube.com/@maxhayart) :open_file_folder: :movie_camera: ( _blender_ ) ( _compositions_ ) : advanced tutorials on composition
+- [David Kohlmann](https://www.youtube.com/@davidkohlmann/videos) :open_file_folder: :movie_camera: ( _blender_ )
 
 ## Collections of collections on Esthetics
 
@@ -242,6 +254,8 @@ Curated collection of lists of useful resources to master CG Art together.
 - ( _render_time_ ) - render time optimization
 - ( _vfx_ ) - visual effects
 - ( _environment_ ) - environment
+- ( _retopology_ ) - retopology / retexturing / baking
+- ( _baking_ ) - baking
 - ( _rigging_ ) - rigging
 
 ##### Specific Technology

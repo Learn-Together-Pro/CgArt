@@ -5,6 +5,7 @@ Curated collection of lists of useful resources to master CG Art together.
 [:arrow_down: Tags legend](#tags-legend) at the end of the page.
 
 <!-- - []() by []() : -->
+<!-- - []() by []() :mortar_board: :movie_camera: ( _blender_ ) : -->
 
 ## Basics of Blender
 
@@ -13,23 +14,66 @@ Curated collection of lists of useful resources to master CG Art together.
 - :star: [Blender Beginner Donut Tutorial](https://www.youtube.com/playlist?list=PLjEaoINr3zgFX8ZsChQVQsuDSjEqdWMAD) by [Andrew Price](https://www.youtube.com/@blenderguru) :mortar_board: :movie_camera: ( _blender_ ) : legendary beginner tutorial
 - [Blender 3.0 Basics Course](https://www.youtube.com/playlist?list=PL3GeP3YLZn5ixsnIOIx9tB4v6s-rsw48X) by [CG Cookie](https://www.youtube.com/@cg_cookie) :mortar_board: :movie_camera: ( _blender_ ) : more academic introductory course on Blender
 
-## Materials and Shaders
+## Overview of Capabilities
+
+- [20+ Styles of 3D Modeling](https://www.youtube.com/watch?v=DeHasEMCzcc) by [Gleb Alexandrov](https://www.youtube.com/@GlebAlexandrov/videos)
+- [All 54 Modifiers in Blender Explained in 10 Minutes](https://www.youtube.com/watch?v=idcFMhoSdIc) by [Blender Bash](https://www.youtube.com/@BlenderBash/videos)
+
+## Materials and Shaders Course
 
 ( _material_ )
 
 - [How to make Photorealistic Materials, using the Principled Shader](https://www.youtube.com/watch?v=4H5W6C_Mbck) by [Andrew Price](https://www.youtube.com/@blenderguru) :movie_camera: ( _blender_ ) : tutorial on Principled BSDF
 - [Photorealistic Puddles](https://www.youtube.com/watch?v=TxYVMw94FXE) by [Andrew Price](https://www.youtube.com/@blenderguru) :movie_camera: ( _blender_ )
+
+## Materials and Shaders Tutorials
+
+( _material_ )
+
 - [Blender Procedural Material Tutorials](https://www.youtube.com/playlist?list=PLsGl9GczcgBs6TtApKKK-L_0Nm6fovNPk) by [Ryan King](https://www.youtube.com/@RyanKingArt) :movie_camera: ( _blender_ ) : collection of not related tutorials on materials and shaders
 
-## Modeling
+## Low-Poly Modeling Course
 
 ( _modeling_ )
 
-- [Intermediate Blender Tutorial Series](https://www.youtube.com/playlist?list=PLjEaoINr3zgHJVJF3T3CFUAZ6z11jKg6a) by [Andrew Price](https://www.youtube.com/@blenderguru) :mortar_board: :movie_camera: ( _blender_ ) ( _modeling_ ) ( _texturing_ ) : course on modeling and texturing
-- [Learning and Understanding Topology](https://www.youtube.com/playlist?list=PL3GeP3YLZn5irhqsD6_Srf-CeimYPonaK) by [CG Cookie](https://www.youtube.com/@cg_cookie) :mortar_board: :movie_camera: ( _blender_ ) ( _modeling_ ) : course on modeling and topology
-- [Hard Surface Modeling](https://www.youtube.com/playlist?list=PLJrcFnBj2iIjqa_i2cANHvQ-8YdW4IxaG) by [Ponte Ryuurui](https://www.youtube.com/@PonteRyuurui) :movie_camera: ( _blender_ ) ( _modeling_ ) ( _modeling_hardsurface_ )
-- [Get Good in Blender](https://www.youtube.com/playlist?list=PLn3ukorJv4vvv3ZpWJYvV5Tmvo7ISO-NN) by [Grant Abbitt](https://www.youtube.com/@grabbitt) :mortar_board: :movie_camera: ( _blender_ ) ( _modeling_ )
+- [Learn Low Poly Modeling](https://www.youtube.com/watch?v=1jHUY3qoBu8) by [Imphenzia](https://www.youtube.com/@Imphenzia) :movie_camera: ( _blender_ ) ( _modeling_ ) ( _modeling_lowpoly_ )
+- [Low Poly City Assets](https://www.youtube.com/watch?v=UFws4TM5u6o) by [Ryan King Art](https://www.youtube.com/@RyanKingArt) :movie_camera: ( _blender_ ) ( _modeling_ ) ( _modeling_lowpoly_ )
 - [Low Poly Modelling](https://www.youtube.com/playlist?list=PLn3ukorJv4vsPy9J9x4--pat6jaPqNm11) by [Grant Abbitt](https://www.youtube.com/@grabbitt) :mortar_board: :movie_camera: ( _blender_ ) ( _modeling_ ) ( _modeling_lowpoly_ )
+
+## Modeling Course
+
+( _modeling_ )
+
+- [Get Good in Blender](https://www.youtube.com/playlist?list=PLn3ukorJv4vvv3ZpWJYvV5Tmvo7ISO-NN) by [Grant Abbitt](https://www.youtube.com/@grabbitt) :mortar_board: :movie_camera: ( _blender_ ) ( _modeling_ )
+- [Learning and Understanding Topology](https://www.youtube.com/playlist?list=PL3GeP3YLZn5irhqsD6_Srf-CeimYPonaK) by [CG Cookie](https://www.youtube.com/@cg_cookie) :mortar_board: :movie_camera: ( _blender_ ) ( _modeling_ ) : course on modeling and topology
+- [Architectural Modeling Tutorials and Tools](https://www.youtube.com/playlist?list=PL0LADxPpmXN4cdyX_Kg1Tmfj5fj_eVziZ) by [The CG Essentials](https://www.youtube.com/@TheCGEssentials) :mortar_board: :movie_camera: ( _blender_ ) ( _modeling_ ) ( _interior_ ) : course on modeling and texturing
+- [Intermediate Blender Tutorial Series](https://www.youtube.com/playlist?list=PLjEaoINr3zgHJVJF3T3CFUAZ6z11jKg6a) by [Andrew Price](https://www.youtube.com/@blenderguru) :mortar_board: :movie_camera: ( _blender_ ) ( _modeling_ ) : course on modeling and texturing
+
+## Modeling Collection
+
+- [Hard Surface Modeling](https://www.youtube.com/playlist?list=PLJrcFnBj2iIjqa_i2cANHvQ-8YdW4IxaG) by [Ponte Ryuurui](https://www.youtube.com/@PonteRyuurui) :movie_camera: ( _blender_ ) ( _modeling_ ) ( _modeling_hardsurface_ )
+
+## Interior Design
+
+( _interior_ )
+
+- [Architectural Modeling Tutorials and Tools](https://www.youtube.com/playlist?list=PL0LADxPpmXN4cdyX_Kg1Tmfj5fj_eVziZ) by [The CG Essentials](https://www.youtube.com/@TheCGEssentials) :mortar_board: :movie_camera: ( _blender_ ) ( _modeling_ ) ( _interior_ ) : course on modeling and texturing
+- [Interior Visualization](https://www.youtube.com/playlist?list=PLYVR0A4acpNaFiTL-qmxH8fm4DJxqq-vp) by [Chocofur](https://www.youtube.com/@Chocofur) :mortar_board: :movie_camera: ( _blender_ ) ( _interior_ ) : course on modeling and texturing
+
+## Texturing
+
+( _texturing_ )
+
+- [Learn Texture Painting](https://www.youtube.com/playlist?list=PLn3ukorJv4vtvjZvdiOeoSA5kBohtnDOF) by [Grant Abbitt](https://www.youtube.com/@grabbitt) :mortar_board: :movie_camera: ( _blender_ ) ( _texturing_ )
+- [Blender Texture Painting](https://www.youtube.com/playlist?list=PLsGl9GczcgBsVJWWIEWDBhRtDOA1mUF3i) by [Ryan King Art](https://www.youtube.com/@RyanKingArt) :mortar_board: :movie_camera: ( _blender_ ) ( _texturing_ )
+- [Organic Unwrapping in Blender](https://www.youtube.com/watch?v=hyzLjXw8RFk) by [ Outgang ](https://www.youtube.com/@Outgang/videos) :movie_camera: ( _blender_ ) ( _texturing_ )
+
+## Rigging
+
+( _rigging_ )
+
+- [Character Rigging for Beginners](https://www.youtube.com/watch?v=mYgznqvbisM) by [Ryan King Art](https://www.youtube.com/@RyanKingArt) :movie_camera: ( _blender_ ) ( _rigging_ )
+- [Walk Cycles - The Fastest Method](https://www.youtube.com/watch?v=e_COc0ZVHr0) by [Mark Masters](https://www.youtube.com/@MarkMastersAnim) :movie_camera: ( _blender_ ) ( _rigging_ )
 
 ## Light
 
@@ -48,24 +92,6 @@ Curated collection of lists of useful resources to master CG Art together.
 - [Donut Tutorial: Compositing](https://www.youtube.com/watch?v=wlmq6EXzzzw) by [Andrew Price](https://www.youtube.com/@blenderguru) :movie_camera: ( _blender_ )
 - [Introduction to Compositing](https://www.youtube.com/watch?v=bIZrTXtyQkY) by [CG Boost](https://www.youtube.com/@cgboost) :movie_camera: ( _blender_ )
 - [12 Awesome Compositor Effects](https://www.youtube.com/watch?v=8x2qfWNHedM) by [The CG Essentials](https://www.youtube.com/@TheCGEssentials) :movie_camera: ( _blender_ )
-
-## Texturing
-
-( _texturing_ )
-
-- [Intermediate Blender Tutorial Series](https://www.youtube.com/playlist?list=PLjEaoINr3zgHJVJF3T3CFUAZ6z11jKg6a) by [Andrew Price](https://www.youtube.com/@blenderguru) :mortar_board: :movie_camera: ( _blender_ ) ( _modeling_ ) ( _texturing_ ) : course on modeling and texturing
-
-## Interior Design
-
-( _interior_ )
-
-- [Interior Visualization](https://www.youtube.com/playlist?list=PLYVR0A4acpNaFiTL-qmxH8fm4DJxqq-vp) by [Chocofur](https://www.youtube.com/@Chocofur) :mortar_board: :movie_camera: ( _blender_ ) ( _interior_ ) : course on modeling and texturing
-
-## Rigging
-
-( _rigging_ )
-
-- [Walk Cycles - The Fastest Method](https://www.youtube.com/watch?v=e_COc0ZVHr0) by [Mark Masters](https://www.youtube.com/@MarkMastersAnim) :mortar_board: :movie_camera: ( _blender_ ) ( _rigging_ )
 
 ## Render-time Optimization
 

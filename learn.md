@@ -204,6 +204,7 @@ Curated collection of lists of useful resources to master CG Art together.
 - [Tyler Edlin](https://www.youtube.com/@TylerEdlin84/videos) :open_file_folder: :movie_camera: ( _drawing_ ) ( _aesthetics_ )
 - [Sycra](https://www.youtube.com/@Sycra) :open_file_folder: :movie_camera: ( _drawing_ ) ( _aesthetics_ )
 - [Drawing & Painting](https://www.youtube.com/@thevirtualinstructor/videos) :open_file_folder: :movie_camera: ( _drawing_ ) ( _aesthetics_ ) : tutorials on drawing and composition
+- [Marco Bucci](https://www.youtube.com/@marcobucci) :open_file_folder: :movie_camera: ( _drawing_ ) ( _aesthetics_ ) : tutorials on drawing and composition
 
 ## Collections of collections on Drawing
 
@@ -211,6 +212,7 @@ Curated collection of lists of useful resources to master CG Art together.
 
 - [Sycra](https://www.youtube.com/@Sycra) :open_file_folder: :movie_camera: ( _drawing_ ) ( _aesthetics_ )
 - [Drawing & Painting](https://www.youtube.com/@thevirtualinstructor/videos) :open_file_folder: :movie_camera: ( _drawing_ ) ( _aesthetics_ ) : tutorials on drawing and composition
+- [Marco Bucci](https://www.youtube.com/@marcobucci) :open_file_folder: :movie_camera: ( _drawing_ ) ( _aesthetics_ ) : tutorials on drawing and composition
 
 ## Tags legend
 

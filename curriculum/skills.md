@@ -1,0 +1,13 @@
+
+- ❌ Awareness about ecosystem
+- ❌ Modelling
+-- ❌ Low-poly Modelling
+-- ❌ Hard Surface Modelling
+-- ❌ Organic Surface Modelling
+- ❌ Texturing
+- ❌ Light
+- ❌ Material
+- 
+- ❌ Esthetics
+-- ❌ Composition
+-- ❌ Color Theory

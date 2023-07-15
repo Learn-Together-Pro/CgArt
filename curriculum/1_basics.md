@@ -11,10 +11,9 @@ It's expected that you've already took [iconic course](https://www.youtube.com/p
 - ❌ [20+ Styles of 3D Modeling](https://www.youtube.com/watch?v=DeHasEMCzcc)
 - ❌ [All 54 Modifiers in Blender Explained in 10 Minutes](https://www.youtube.com/watch?v=idcFMhoSdIc)
 
-## Low-Poly Modeling Course
+## Low-Poly Modeling - 0
 
-- ❌ [Learn Low Poly Modeling](https://www.youtube.com/watch?v=1jHUY3qoBu8)
-- ❌ [Low Poly City Assets](https://www.youtube.com/watch?v=UFws4TM5u6o)
+- ❌ [Low-Poly Modeling](https://www.youtube.com/playlist?list=PLeb33PCuqDdfB7N8pokJrAc_7xAzdVOzl)
 - ❌ [Low Poly Modeling](https://www.youtube.com/playlist?list=PLn3ukorJv4vsPy9J9x4--pat6jaPqNm11)
 
 ## Git Basics

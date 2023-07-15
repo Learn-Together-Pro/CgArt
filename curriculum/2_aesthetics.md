@@ -1,72 +1,50 @@
 # Aesthetics
 
+## Aesthetics in General: Color Theory
+
+- ❌ [Mastering Color Theory](https://www.youtube.com/playlist?list=PLeb33PCuqDdd0v89ujWyseb1K-biKEf9W)
+
 ## Materials and Shaders
 
-- ❌ [How to make Photorealistic Materials, using the Principled Shader](https://www.youtube.com/watch?v=4H5W6C_Mbck)
-- ❌ [Photorealistic Puddles](https://www.youtube.com/watch?v=TxYVMw94FXE)
+- ❌ [Mastering Materials](https://www.youtube.com/playlist?list=PLeb33PCuqDddSobQytmavJWtgIzHXq_jR)
 
 ## Light
 
 - ❌ [Lighting Course](https://www.youtube.com/playlist?list=PLjEaoINr3zgH9vCr47kSS5W8PEJBNIiwK)
-- ❌ [The Secret Ingredient to Photorealism](https://www.youtube.com/watch?v=m9AT7H4GGrA)
-- ❌ [The Power of Lighting](https://www.youtube.com/watch?v=ElMM3u2MO5k)
-- ❌ [Modern Lighting Techniques](https://www.youtube.com/watch?v=y6WKm62mhIo)
-- ❌ [How to Make Studio Lighting](https://www.youtube.com/watch?v=5UCc3Z_-ibs)
-- ❌ [How to create a professional Studio Lighting](https://www.youtube.com/watch?v=CCmV1X8t2SQ)
-- ❌ [Tutorial Gobos Light Textures](https://www.youtube.com/watch?v=Qh7tr4ohDGc)
+- ❌ [Mastering Light](https://www.youtube.com/playlist?list=PLeb33PCuqDdfdbDKEShGuYL1PizRly7MW)
+- ❌ [Light](https://www.youtube.com/playlist?list=PLeb33PCuqDddozP1vepPQ091sSWO37lGB)
+- ❌ [Tutorial Gobos Light Textures](https://www.youtube.com/watch?v=Qh7tr4ohDGc)  [:movie_camera:](https://www.youtube.com/watch?v=Qh7tr4ohDGc) [🔽](https://blendermarket.com/products/gobos)
 
 ## Post-effects
 
-- ❌ [Donut Tutorial: Compositing](https://www.youtube.com/watch?v=wlmq6EXzzzw)
-- ❌ [Introduction to Compositing](https://www.youtube.com/watch?v=bIZrTXtyQkY)
-- ❌ [12 Awesome Compositor Effects](https://www.youtube.com/watch?v=8x2qfWNHedM)
+- ❌ [Mastering Compositing](https://www.youtube.com/playlist?list=PLeb33PCuqDdefedNSn0mSwRiD004Mp1IQ)
 
 ## Aesthetics in General: Composition
 
-( _aesthetics_ )
-
-- ❌ [Composition for Artists](https://www.youtube.com/playlist?list=PLV2X3tgajVlHEWoxhxHBV5JyU7R80LT9R)
-- ❌ [Understanding Composition](https://www.youtube.com/watch?v=O8i7OKbWmRM)
 - ❌ [Understanding Composition](https://www.picturecorrect.com/the-ultimate-guide-to-understanding-composition/)
-- ❌ [Composition for Noobs](https://www.youtube.com/watch?v=9VVzCr3c9Jk)
-- ❌ [10 Composition Tips](https://www.youtube.com/watch?v=JuEkb6FNptE)
-- ❌ [7 Tips for Composition Design](https://www.youtube.com/watch?v=ur37AAQDsb8)
-- ❌ [Primary, Secondary And Tertiary Shapes](https://www.youtube.com/watch?v=6IojuePYIHo)
 - ❌ [Primary, Secondary And Tertiary Shapes](https://web.archive.org/web/20201207145016/http://www.neilblevins.com/cg_education/primary_secondary_and_tertiary_shapes/primary_secondary_and_tertiary_shapes.htm)
-- ❌ [The Secret of Making High-Quality Art](https://www.youtube.com/watch?v=qMH_J_vcoqE)
-- ❌ [Composition Types](https://www.youtube.com/watch?v=Xbveb0QoZq4)
 - ❌ [Composition Types](https://digitaltutorials.tumblr.com/post/93875580694/this-article-was-written-by-phil-straub-back-in)
-- ❌ [Clumping And Grouping](https://www.youtube.com/watch?v=zYwfWcAAdIE)
-- ❌ [Creating Focal Points And Visual Paths](https://www.youtube.com/watch?v=MX59j9yhezw)
-- ❌ [Contrasts In Composition](https://www.youtube.com/watch?v=ocuFrOD1qEc)
-- ❌ [What is a Tangent?](https://www.youtube.com/watch?v=nVOcfcjN1cM)
+- ❌ [Composition for Artists](https://www.youtube.com/playlist?list=PLV2X3tgajVlHEWoxhxHBV5JyU7R80LT9R)
+- ❌ [Composition Series](https://www.youtube.com/playlist?list=PLeb33PCuqDdeg8fCs1vjKCzEr6m1gzRq5)
+- ❌ [Mastering Composition](https://www.youtube.com/playlist?list=PLeb33PCuqDdcG_bJmpAaCz9WJyh6eyUhw)
 
-## Aesthetics in General: Color Theory
+## Aesthetics: Cinematography in Blender
 
-( _aesthetics_ ) ( _color_ )
-
-- ❌ [Color Theory for Noobs](https://www.youtube.com/watch?v=AvgCkHrcj90)
-- ❌ [Understanding Color](https://www.youtube.com/watch?v=Qj1FK8n7WgY)
-- ❌ [Composition and Harmony](https://www.youtube.com/watch?v=p0rVUhXnmpY)
-
-## Aesthetics in Blender
-
-( _aesthetics_ ) ( _blender_ )
-
-- ❌ [The Secret Ingredient to Photorealism](https://www.youtube.com/watch?v=m9AT7H4GGrA)
-- ❌ [Take your Blender Cinematography to the Next Level](https://www.youtube.com/watch?v=h3ouYgJ0hUk)
+- ❌ [Cinematography in Blender](https://www.youtube.com/playlist?list=PLeb33PCuqDde4WPl060DhiPOXSrL4C9_4)
 
 ## Objectives
 
 - 2.1. ❌ 6 different color schemas
-- 2.2. ❌ 4 different set of post-effects to make it look completely different
-- 2.3. ❌ 4 different lighting techniques with simple scenes, [check out](https://www.youtube.com/watch?v=y6WKm62mhIo)
+- 2.2. ❌ 4 different lighting techniques with simple scenes, [check out](https://www.youtube.com/watch?v=y6WKm62mhIo)
   - ❌1 uses IES
-- 2.4. ❌ 4 different gobo lighting techniques, [check out](https://www.youtube.com/watch?v=ElMM3u2MO5k)
+- 2.3. ❌ 4 different gobo lighting techniques, [check out](https://www.youtube.com/watch?v=ElMM3u2MO5k)
+- 2.4. ❌ 4 different set of post-effects to make it look completely different
 - 2.5. ❌ 4 different focal points
 - 2.6. ❌ 4 different structures
 - 2.7. ❌ 4 different balance
 - 2.8. ❌ 4 different moods
+- 2.9. ❌ Categorize 8 images from [here](https://dylancolestudio.com/avatar-1) according to [light](https://www.youtube.com/watch?v=RG83v_oQ4DY)
+- 2.10. ❌ Paint [3 levels of details](https://www.youtube.com/watch?v=qMH_J_vcoqE) of 4 CG art pieces of your choice
 
 ## Research
 

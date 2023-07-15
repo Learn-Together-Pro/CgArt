@@ -1,29 +1,33 @@
 # Modeling and Texturing
 
-## Low-Poly Modeling Course
+## Low-Poly Modeling - 0
 
-- ❌ [Learn Low Poly Modeling](https://www.youtube.com/watch?v=1jHUY3qoBu8)
-- ❌ [Low Poly City Assets](https://www.youtube.com/watch?v=UFws4TM5u6o)
+- ❌ [Low-Poly Modeling](https://www.youtube.com/playlist?list=PLeb33PCuqDdfB7N8pokJrAc_7xAzdVOzl)
 - ❌ [Low Poly Modeling](https://www.youtube.com/playlist?list=PLn3ukorJv4vsPy9J9x4--pat6jaPqNm11)
 
-## Modeling Course
+## Modeling - 1
 
 - ❌ [Get Good in Blender](https://www.youtube.com/playlist?list=PLn3ukorJv4vvv3ZpWJYvV5Tmvo7ISO-NN)
 - ❌ [Learning and Understanding Topology](https://www.youtube.com/playlist?list=PL3GeP3YLZn5irhqsD6_Srf-CeimYPonaK)
-- ❌ [Architectural Modeling Tutorials and Tools](https://www.youtube.com/playlist?list=PL0LADxPpmXN4cdyX_Kg1Tmfj5fj_eVziZ)
 - ❌ [Intermediate Blender Tutorial Series](https://www.youtube.com/playlist?list=PLjEaoINr3zgHJVJF3T3CFUAZ6z11jKg6a)
+- ❌ [Subdivision Modelling](https://www.youtube.com/playlist?list=PLeb33PCuqDdcPLfTSOkhjrox0S8UpmvMP)
+- ❌ [Topology Guide](https://www.artstation.com/artwork/0n93EV)
 
-## Texturing
+## Modeling Mistakes - 2
+
+- ❌ [Topology Mistakes](https://www.youtube.com/playlist?list=PLeb33PCuqDdd4zGEje71OwLxkXyKqPyIF)
+
+## Texturing - 1
 
 - ❌ [Learn Texture Painting](https://www.youtube.com/playlist?list=PLn3ukorJv4vtvjZvdiOeoSA5kBohtnDOF)
 - ❌ [Blender Texture Painting](https://www.youtube.com/playlist?list=PLsGl9GczcgBsVJWWIEWDBhRtDOA1mUF3i)
-- ❌ [Organic Unwrapping in Blender](https://www.youtube.com/watch?v=hyzLjXw8RFk)
+- ❌ [Mastering Texturing](https://www.youtube.com/playlist?list=PLeb33PCuqDdcdKfSK0wB6oAVnnl0F4EUC)
 
-## Retopology
+## Retopology / Retexturing / Baking - 2
 
 - ❌ [Texture Baking Blender Tutorials](https://www.youtube.com/playlist?list=PLsGl9GczcgBvJPh7D_ITafvmTW7ZzQTEr)
-- ❌ [Convert Material Displacement to a Mesh](https://www.youtube.com/watch?v=McALCOr39rY)
 - ❌ [Learn Retopology](https://www.youtube.com/playlist?list=PLn3ukorJv4vs8PQj8z_PMbZAVLFEhQF5L)
+- ❌ [Mastering Retopology](https://www.youtube.com/playlist?list=PLeb33PCuqDdeNmUQ3_a-_tLovRKpXGCBb)
 
 ## Objectives
 

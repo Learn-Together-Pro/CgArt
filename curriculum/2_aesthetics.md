@@ -1,21 +1,21 @@
-# Aesthetics
+# 2. Aesthetics
 
-## Aesthetics in General: Color Theory
+## Aesthetics in General: Color Theory - 0
 
 - ❌ [Mastering Color Theory](https://www.youtube.com/playlist?list=PLeb33PCuqDdd0v89ujWyseb1K-biKEf9W)
 
-## Materials and Shaders
+### Materials Basics - 0
 
-- ❌ [Mastering Materials](https://www.youtube.com/playlist?list=PLeb33PCuqDddSobQytmavJWtgIzHXq_jR)
+- ❌ [Materials Basics](https://www.youtube.com/playlist?list=PLeb33PCuqDddSobQytmavJWtgIzHXq_jR)
 
-## Light
+## Light - 0
 
 - ❌ [Lighting Course](https://www.youtube.com/playlist?list=PLjEaoINr3zgH9vCr47kSS5W8PEJBNIiwK)
 - ❌ [Mastering Light](https://www.youtube.com/playlist?list=PLeb33PCuqDdfdbDKEShGuYL1PizRly7MW)
 - ❌ [Light](https://www.youtube.com/playlist?list=PLeb33PCuqDddozP1vepPQ091sSWO37lGB)
 - ❌ [Tutorial Gobos Light Textures](https://www.youtube.com/watch?v=Qh7tr4ohDGc)  [:movie_camera:](https://www.youtube.com/watch?v=Qh7tr4ohDGc) [🔽](https://blendermarket.com/products/gobos)
 
-## Post-effects
+## Post-effects - 0
 
 - ❌ [Mastering Compositing](https://www.youtube.com/playlist?list=PLeb33PCuqDdefedNSn0mSwRiD004Mp1IQ)
 
@@ -27,10 +27,6 @@
 - ❌ [Composition for Artists](https://www.youtube.com/playlist?list=PLV2X3tgajVlHEWoxhxHBV5JyU7R80LT9R)
 - ❌ [Composition Series](https://www.youtube.com/playlist?list=PLeb33PCuqDdeg8fCs1vjKCzEr6m1gzRq5)
 - ❌ [Mastering Composition](https://www.youtube.com/playlist?list=PLeb33PCuqDdcG_bJmpAaCz9WJyh6eyUhw)
-
-## Aesthetics: Cinematography in Blender
-
-- ❌ [Cinematography in Blender](https://www.youtube.com/playlist?list=PLeb33PCuqDde4WPl060DhiPOXSrL4C9_4)
 
 ## Objectives
 

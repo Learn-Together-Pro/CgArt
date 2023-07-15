@@ -1,1 +1,0 @@
-# Curriculum for Blender Artist

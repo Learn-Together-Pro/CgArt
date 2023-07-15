@@ -1,6 +1,6 @@
 # Curriculum
 
-State of the art and mostly free curriculum to train Blender Artist.
+State of the art and mostly free curriculum to train Blender Artists.
 
 - ❌ [1. Basics](./1_basics.md) (2 weeks)
   - ❌ [1.1. Blender Basics](./1_basics.md#11-blender-basics)
@@ -9,7 +9,7 @@ State of the art and mostly free curriculum to train Blender Artist.
   - ❌ [1.4. Git Basics](./1_basics.md#14-git-basics)
   - ❌ [1.5. Markdown Basics](./1_basics.md#15-markdown-basics)
 - ❌ [2. Aesthetics](./2_aesthetics.md) (3 weeks)
-- ❌ [3. Modeling and Texturing](./3_modeling_and_texturing.md) (2 weeks)
+- ❌ [3. Modeling and Texturing](./3_modeling_and_texturing.md) (3 weeks)
 - ❌ [4. Procedural](./4_procedural.md) (2 weeks)
 - ❌ [5. Advanced Techniques of Modeling](./5_advanced_modeling.md) (2 weeks)
 - ❌ [6. Productivity](./6_productivity.md) (3 weeks)

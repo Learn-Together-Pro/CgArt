@@ -4,7 +4,7 @@
 
 - ❌ [Mastering Color Theory](https://www.youtube.com/playlist?list=PLeb33PCuqDdd0v89ujWyseb1K-biKEf9W)
 
-### Materials Basics - 0
+## Materials Basics - 0
 
 - ❌ [Materials Basics](https://www.youtube.com/playlist?list=PLeb33PCuqDddSobQytmavJWtgIzHXq_jR)
 

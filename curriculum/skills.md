@@ -1,3 +1,6 @@
+# Skills
+
+## Composition
 
 - ❌ Modeling
 -- ❌ Low-poly Modeling
@@ -46,3 +49,5 @@
 - ❌ Video editing
 - ❌ AI-Driven Design
 - ❌ Photogrammetry
+
+## Dependency

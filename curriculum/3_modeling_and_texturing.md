@@ -36,5 +36,3 @@
 ## Research
 
 <!-- - ❌ Tool for color schema analyzes -->
-
-## Links

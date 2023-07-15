@@ -50,5 +50,3 @@
 
 - ❌ Tool for color schema analyzes
 - ❌ Find source of [product renderings](https://youtu.be/y6WKm62mhIo?t=64)
-
-## Links

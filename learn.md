@@ -113,32 +113,29 @@ Curated collection of lists of useful resources to master CG Art together.
 - [Light](https://www.youtube.com/playlist?list=PLeb33PCuqDddozP1vepPQ091sSWO37lGB) by [Gleb Alexandrov](https://www.youtube.com/@GlebAlexandrov/videos) :mortar_board: :movie_camera:  ( _light_ ) ( _blender_ )
 - [Tutorial Gobos Light Textures](https://www.youtube.com/watch?v=Qh7tr4ohDGc) by [B Production](https://www.youtube.com/@bproduction1488/videos) [:movie_camera:](https://www.youtube.com/watch?v=Qh7tr4ohDGc) [🔽](https://blendermarket.com/products/gobos) :moneybag: ( _blender_ ) ( _light_ ) ( _addon_ )
 
-## Post-effects and Compositing
+## Post-effects and Compositing - 1
 
 ( _posteffect_ )
 
 - [Mastering Compositing](https://www.youtube.com/playlist?list=PLeb33PCuqDdefedNSn0mSwRiD004Mp1IQ) by [community]() :movie_camera: ( _blender_ ) :
 
-## Render-time Optimization
+## Render-time Optimization - 1
 
-( _productivity_ )
+( _productivity_ ) ( _render_time_ ) ( _blender_ )
 
-- [Tutorial on Render Time Optimization](https://www.youtube.com/watch?v=JCLSJg9sdNI) by [Andrew Price](https://www.youtube.com/@blenderguru) :movie_camera: ( _blender_ ) ( _productivity_ ) ( _render_time_ )
-- [5 Tips for FASTER Renders Cycles](https://www.youtube.com/watch?v=VEdd9CynwQU) by [Kaizen Tutorials](https://www.youtube.com/@KaizenTutorials) :movie_camera: ( _blender_ ) ( _productivity_ ) ( _render_time_ )
-- [5 Tips for FASTER Renders Cycles](https://www.youtube.com/watch?v=FNiobzflmpA) by [David Kohlmann](https://www.youtube.com/@davidkohlmann/videos) :movie_camera: ( _blender_ ) ( _productivity_ ) ( _render_time_ )
+- [Render-Time Optimization](https://www.youtube.com/playlist?list=PLeb33PCuqDddbl1Iw7EAQ_kIpEDVBHjPr) by [community]() :movie_camera: ( _blender_ ) ( _productivity_ ) ( _render_time_ )
 
-## Productivity Tips
+## Productivity Hacks - 2
 
-( _productivity_ ) ( _advanced_ )
+( _productivity_ ) ( _blender_ ) ( _level_2_ )
 
-- [Blender Settings I wish I knew Before!](https://www.youtube.com/watch?v=fcgctjmfhc8) by [Kaizen Tutorials](https://www.youtube.com/@KaizenTutorials) :movie_camera: ( _blender_ ) ( _productivity_ ) : several settings and addons worth be mentioned
-- [11 Blender Tips that will make you a Better CG Artist!](https://www.youtube.com/watch?v=944D33KvhmA) by [Kaizen Tutorials](https://www.youtube.com/@KaizenTutorials) :movie_camera: ( _blender_ ) : several settings worth to be mentioned
-- [16 Blender Tips That Made Me Pro](https://www.youtube.com/watch?v=Y8QGgOvwa94) by [Chocofur](https://www.youtube.com/@Chocofur) :movie_camera: ( _blender_ ) ( _composition_ ) ( _light_ ) ( _productivity_ ) : advanced advices on aesthetics and composition
+- [Productivity Hacks](https://www.youtube.com/playlist?list=PLeb33PCuqDdfA6PX9SWK6bcF4KqIfh7QT) by [community]() :movie_camera: ( _blender_ ) ( _productivity_ )
 
-## Addons
+## Addons - 3
 
-( _addon_ )
+( _addon_ ) ( _blender_ ) ( _level_3_ )
 
+- [Hot Blender Addons](https://www.youtube.com/playlist?list=PLeb33PCuqDddISNr15ys_loDeOi_aHKEs) by [community]() :mortar_board: :movie_camera: ( _blender_ )
 - [Tutorial Gobos Light Textures](https://www.youtube.com/watch?v=Qh7tr4ohDGc) by [B Production](https://www.youtube.com/@bproduction1488/videos) [:movie_camera:](https://www.youtube.com/watch?v=Qh7tr4ohDGc) [🔽](https://blendermarket.com/products/gobos) :moneybag: ( _blender_ ) ( _light_ ) ( _addon_ )
 
 ## Aesthetics in General: Composition

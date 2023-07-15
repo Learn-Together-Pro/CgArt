@@ -13,5 +13,5 @@ State of the art and mostly free curriculum to train Blender Artists.
 - ❌ [4. Procedural](./4_procedural.md) (2 weeks)
 - ❌ [5. Advanced Techniques of Modeling](./5_advanced_modeling.md) (2 weeks)
 - ❌ [6. Productivity](./6_productivity.md) (3 weeks)
-- ❌ [7. Special Techniques of Modeling](./7_animation.md) (2 weeks)
+- ❌ [7. Special Techniques of Modeling](./7_special_modeling.md) (2 weeks)
 - ❌ [8. Animation](./8_animation.md) (2 weeks)

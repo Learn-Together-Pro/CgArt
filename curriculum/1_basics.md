@@ -18,7 +18,7 @@ It's expected that you've already took [iconic course](https://www.youtube.com/p
 
 ## 1.4. Git Basics
 
-## 1.5. Mardown Basics
+## 1.5. Markdown Basics
 
 ## Objectives
 

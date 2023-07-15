@@ -1,25 +1,25 @@
 # 2. Aesthetics
 
-## Aesthetics in General: Color Theory - 0
+## 2.1. Aesthetics in General: Color Theory - 0
 
 - ❌ [Mastering Color Theory](https://www.youtube.com/playlist?list=PLeb33PCuqDdd0v89ujWyseb1K-biKEf9W)
 
-## Materials Basics - 0
+## 2.2. Materials Basics - 0
 
 - ❌ [Materials Basics](https://www.youtube.com/playlist?list=PLeb33PCuqDddSobQytmavJWtgIzHXq_jR)
 
-## Light - 0
+## 2.3. Light - 0
 
 - ❌ [Lighting Course](https://www.youtube.com/playlist?list=PLjEaoINr3zgH9vCr47kSS5W8PEJBNIiwK)
 - ❌ [Mastering Light](https://www.youtube.com/playlist?list=PLeb33PCuqDdfdbDKEShGuYL1PizRly7MW)
 - ❌ [Light](https://www.youtube.com/playlist?list=PLeb33PCuqDddozP1vepPQ091sSWO37lGB)
 - ❌ [Tutorial Gobos Light Textures](https://www.youtube.com/watch?v=Qh7tr4ohDGc)  [:movie_camera:](https://www.youtube.com/watch?v=Qh7tr4ohDGc) [🔽](https://blendermarket.com/products/gobos)
 
-## Post-effects - 0
+## 2.4. Post-effects - 0
 
 - ❌ [Mastering Compositing](https://www.youtube.com/playlist?list=PLeb33PCuqDdefedNSn0mSwRiD004Mp1IQ)
 
-## Aesthetics in General: Composition
+## 2.5. Aesthetics in General: Composition
 
 - ❌ [Understanding Composition](https://www.picturecorrect.com/the-ultimate-guide-to-understanding-composition/)
 - ❌ [Primary, Secondary And Tertiary Shapes](https://web.archive.org/web/20201207145016/http://www.neilblevins.com/cg_education/primary_secondary_and_tertiary_shapes/primary_secondary_and_tertiary_shapes.htm)

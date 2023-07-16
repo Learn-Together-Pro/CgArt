@@ -28,6 +28,10 @@
 - ❌ [Composition Series](https://www.youtube.com/playlist?list=PLeb33PCuqDdeg8fCs1vjKCzEr6m1gzRq5)
 - ❌ [Mastering Composition](https://www.youtube.com/playlist?list=PLeb33PCuqDdcG_bJmpAaCz9WJyh6eyUhw)
 
+## 2.6 Aesthetics in Blender - 0
+
+- ❌ [Aesthetics in Blender](https://www.youtube.com/playlist?list=PLeb33PCuqDdfheg6Uj4TAg3UDfvdCW10I)
+
 ## Objectives
 
 - 2.1. ❌ 6 different color schemas

@@ -264,6 +264,12 @@ Curated collection of lists of useful resources to master CG Art together.
 
 - [Mastering Color Theory](https://www.youtube.com/playlist?list=PLeb33PCuqDdd0v89ujWyseb1K-biKEf9W) by [community]() :movie_camera: ( _aesthetics_ ) ( _color_ )  ( _level_0_ )
 
+## Aesthetics in Blender - 0
+
+( _aesthetics_ ) ( _level_0_ ) ( _blender_ )
+
+- [Aesthetics in Blender](https://www.youtube.com/playlist?list=PLeb33PCuqDdfheg6Uj4TAg3UDfvdCW10I) by [community]() :movie_camera: ( _aesthetics_ ) ( _level_0_ ) ( _blender_ )
+
 ## Aesthetics Tools
 
 - [Adobe Color](https://color.adobe.com/create/image) by [Adobe](https://www.adobe.com)

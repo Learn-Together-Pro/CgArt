@@ -34,11 +34,13 @@
 
 ## Objectives
 
+Make sure you have for each objective a collage of all variations with explanations and without in your directory.
+
 - 2.1. ❌ 6 different color schemas
 - 2.2. ❌ 4 different lighting techniques with simple scenes, [check out](https://www.youtube.com/watch?v=y6WKm62mhIo)
   - ❌1 uses IES
 - 2.3. ❌ 4 different gobo lighting techniques, [check out](https://www.youtube.com/watch?v=ElMM3u2MO5k)
-- 2.4. ❌ 4 different set of post-effects to make it look completely different
+- 2.4. ❌ 3 different set of post-effects to make it look completely different
 - 2.5. ❌ 4 different focal points
 - 2.6. ❌ 4 different structures
 - 2.7. ❌ 4 different balance

@@ -1,6 +1,4 @@
-# Key concepts of CG Art
-
-Key concepts of CG Art
+# Key concepts of Aesthetics
 
 <!-- [:arrow_down: Tags legend](#tags-legend) at the end of the page. -->
 
@@ -160,3 +158,44 @@ Key concepts of CG Art
 ##### Composition Exercises
 
 - Primary, Secondary And Tertiary Overlays
+
+##### Questions to Evaluate an Art Piece
+
+- Does painting tell a story?
+- Is composition as good as it can be?
+  - Does it has a dramatic camera angle?
+  - Is it balanced?
+  - Is everything lead to the focal point?
+  - Is contrast okay?
+  - Does the eye flow diagram go out of the image accidentally?
+  - Flip along the x-axis to check balance is good.
+  - Blur to check it is balanced?
+- Does it has depth
+  - Does the image has several layers?
+  - Does the image use dark and light layers composition?
+  - Do details up to scale?
+- Does it not has perspective mistakes?
+- Does not it has accidental tangents?
+- Checking Color and Light
+  - Is it not too monochromatic?
+  - Set saturation to zero to check if it is still good?
+  - Use a levels diagram to check does it have enough black blacks and white whites.
+- Checking shapes and forms in a painting
+  - Does it has interesting shapes?
+  - Does it has areas of visual detail and rest?
+  - Does it has a proper ratio between primary, secondary, and tertiary shapes?
+- Texture Check
+  - Does it has more than one material?
+  - Do materials look differently?
+- Asking for an Opinion
+  - Take into account the Ikea effect
+- Compare
+  - Does it feels as good as the sketch?
+  - Does it feels as good as the works of others?
+- Does it look as good after a break?
+- Does it look as good on all devices you have?
+- Technical Tests
+  - Flip along the x-axis to check balance is good.
+  - Set saturation to zero to check it is still good.
+  - Blur to check it is balanced?
+  - Use a levels diagram to check does it have enough black blacks and white whites.

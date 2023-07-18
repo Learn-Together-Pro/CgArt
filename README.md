@@ -11,6 +11,6 @@ This repository contains curated collections: learning materials, toolboxes, new
 Here you can find:
 
 - :mortar_board: [Learn](./learn.md) : collection of materials to master CG Art.
-- :old_key: [Comprehend](./concepts.md) : key concepts and dichotomies of CG Art.
-- :chart_with_upwards_trend: [Systemize](./cheatsheets.md) : cheat sheets on CG Art.
+- :old_key: [Comprehend](./concept/readme.md) : key concepts and dichotomies of CG Art.
+- :chart_with_upwards_trend: [Systemize](./cheatsheet/readme.md) : cheat sheets on CG Art.
 - :wrench: [Explore](./toolbox.md) : toolbox of useful open source projects to reuse.

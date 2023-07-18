@@ -8,9 +8,7 @@
 
 ( _math_ ) ( _transformation_ )
 
-<!-- ![Color Wheel](./color_wheel_1.jpg) -->
 <!-- ![Color Wheel](./color_wheel_2.jpg) -->
-
 ![Color Theory](./color_theory_2.jpg)
 ![Color Theory](./color_theory_3.jpg)
 

@@ -12,6 +12,10 @@
 ![Color Theory](./color_theory_2.jpg)
 ![Color Theory](./color_theory_3.jpg)
 
+## Color Theory Concepts
+
+![Color Theory Concepts](./color_concepts.png)
+
 ## Color Theory: Tonic / Dominant / Accent
 
 ![Color Theory: Tonic / Dominant / Accent Explained](./color_tonic_dominant_accent_explained.jpg)

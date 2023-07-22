@@ -6,20 +6,37 @@
 
 ## Color Theory
 
-##### Hue
-: ...
+##### Color Theory
 
-##### Saturation
-: ...
+Conceptual framework used by artists, designers, and anyone working with colors to understand how colors interact with each other and influence human perception.
+
+[Color Theory Concepts Cheatsheet](../cheatsheet/readme.md#color-theory-concepts)
+
+##### Hue ~ Pure Color
+
+Pure color—one without tint or shade.
+
+On a color wheel, the hues are the colors that make up the wheel: red, orange, yellow, green, blue, and violet.
+
+##### Saturation ~ Chroma ~ Intensity
+
+Determine how much black or white does color have.
+
+A saturated color ( high chroma ~ intense ) is bold and pure, while a desaturated ( low chroma ) color appears more washed out or gray. A high chroma color is pure and free from white, black, or gray. A color with low chroma would be more muted or dull, having been mixed with gray or the color's complement.
+
+##### Value ~ Lightness ~ Luminance
+
+Measurable amount of light emitted by a color.
+
+It's often perceived as brightness in human vision. Luminance can help distinguish colors even if their hue and saturation are the same.
 
 ##### Saturating / Desaturating
-: ...
 
-##### Lightness
-: ...
+Increasing / decreasing saturation ~ chroma ~ intensity.
 
 ##### Shade / Tint
-: ...
+
+Adding black / white to change value ~ lightness ~ luminance.
 
 ##### Color Warmness
 : ...

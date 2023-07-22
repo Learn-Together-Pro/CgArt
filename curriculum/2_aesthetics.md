@@ -4,6 +4,11 @@
 
 - ❌ [Mastering Color Theory](https://www.youtube.com/playlist?list=PLeb33PCuqDdd0v89ujWyseb1K-biKEf9W)
 
+<details>
+  <summary>Extra</summary>
+- ❌ <a href="https://www.youtube.com/playlist?list=PLH3tw9J9QyRoA9EfB7YPncAfg4kn5bW44">Graphic Design Workshop</a>
+</details>
+
 ## 2.2. Materials Basics - 0
 
 - ❌ [Materials Basics](https://www.youtube.com/playlist?list=PLeb33PCuqDddSobQytmavJWtgIzHXq_jR)

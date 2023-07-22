@@ -264,6 +264,12 @@ Curated collection of lists of useful resources to master CG Art together.
 
 - [Mastering Color Theory](https://www.youtube.com/playlist?list=PLeb33PCuqDdd0v89ujWyseb1K-biKEf9W) by [community]() :movie_camera: ( _aesthetics_ ) ( _color_ )  ( _level_0_ )
 
+## Aesthetics in General - 3
+
+( _aesthetics_ ) ( _color_ ) ( _level_3_ )
+
+- [Graphic Design Workshop](https://www.youtube.com/playlist?list=PLH3tw9J9QyRoA9EfB7YPncAfg4kn5bW44) by [VirtualAddiction](https://www.youtube.com/@virtualaddiction/videos) :mortar_board: :movie_camera: ( _aesthetics_ ) ( _color_ ) ( _level_3_ )
+
 ## Aesthetics in Blender - 0
 
 ( _aesthetics_ ) ( _level_0_ ) ( _blender_ )

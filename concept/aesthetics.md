@@ -30,6 +30,12 @@ Measurable amount of light emitted by a color.
 
 It's often perceived as brightness in human vision. Luminance can help distinguish colors even if their hue and saturation are the same.
 
+##### Color Warmness
+
+Perceived warmth or coolness of a color.
+
+Warm colors are those which closer to orange: include reds, oranges, and yellows, while cool colors are those which closer to blue: include greens, blues, and purples. The warmness or coolness of a color is determined by where it falls on the color wheel, with warm colors generally being perceived as more energetic and cool colors being perceived as more soothing.
+
 ##### Saturating / Desaturating
 
 Increasing / decreasing saturation ~ chroma ~ intensity.
@@ -38,21 +44,22 @@ Increasing / decreasing saturation ~ chroma ~ intensity.
 
 Adding black / white to change value ~ lightness ~ luminance.
 
-##### Color Warmness
-: ...
-
 ##### Colder color / Warmer color
-: ...
+
+Color is colder if its hue is closer to blue and warmer if its hue is closer to orange.
 
 ##### Color Schema
-: ...
+
+Selection of colors that are used in a design or work of art, chosen to work well together and complement each other.
 
 ##### Color Schemas
 
 - Monochrome Color Schema
 - Analogous Color Schema
 - Complementary Color Schema
+- Split Complementary Color Schema
 - Triadic Color Schema
+- Tetradic Color Schema
 
 ##### Primary Colors
 

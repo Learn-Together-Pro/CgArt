@@ -37,6 +37,33 @@
 - Complementary Color Schema
 - Triadic Color Schema
 
+##### Primary Colors
+
+In traditional color theory, these are the 3 pigment colors that can not be mixed or formed by any combination of other colors. All other colors are derived from these 3 hues. Primary colors are colors at their basic essence.
+
+- red
+- yellow
+- blue
+
+##### Secondary Colors
+
+Secondary Colors are the colors formed by mixing the primary colors.
+
+- green
+- orange
+- purple
+
+##### Tertiary Colors
+
+Tertiary Colors are the colors formed by mixing a primary and a secondary color.
+
+- yellow-orange
+- red-orange
+- red-purple
+- blue-purple
+- blue-green
+- yellow-green
+
 ##### Positive Space / Negative Space
 : ...
 

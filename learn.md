@@ -222,6 +222,18 @@ Curated collection of lists of useful resources to master CG Art together.
 
 - [Mastering Compositing](https://www.youtube.com/playlist?list=PLeb33PCuqDdefedNSn0mSwRiD004Mp1IQ) by [community]() :movie_camera: ( _blender_ ) ( _level_0_ )
 
+## Settings - 0
+
+( _settings_ ) ( _level_0_ )
+
+- [Blender Settings](https://www.youtube.com/playlist?list=PLeb33PCuqDdd8mElcXIVlWWK5VpV_CNeo) by [community]()
+
+## Hotkeys - 0
+
+( _hotkeys_ ) ( _level_0_ )
+
+- [Hotkeys Cheat Sheet](cheatsheet/hotkeys.pdf) by [CG Boost](https://www.youtube.com/cgboost)
+
 ## Assets Management - 1
 
 ( _assets_management_ ) ( _productivity_ ) ( _blender_ ) ( _level_1_ )

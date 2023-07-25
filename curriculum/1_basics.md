@@ -16,10 +16,6 @@ It's expected that you've already took [iconic course](https://www.youtube.com/p
 - ❌ [Mastering Low-Poly Modeling](https://www.youtube.com/playlist?list=PLeb33PCuqDdfB7N8pokJrAc_7xAzdVOzl)
 - ❌ [Low-Poly Modeling](https://www.youtube.com/playlist?list=PLn3ukorJv4vsPy9J9x4--pat6jaPqNm11)
 
-## 1.4. Git Basics
-
-## 1.5. Markdown Basics
-
 ## Objectives
 
 <!-- - 2.1. ❌ 6 different color schemas -->

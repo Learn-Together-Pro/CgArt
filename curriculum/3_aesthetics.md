@@ -1,6 +1,6 @@
-# 2. Aesthetics
+# 3. Aesthetics
 
-## 2.1. Aesthetics in General: Color Theory - 0
+## 3.1. Aesthetics in General: Color Theory - 0
 
 - ❌ [Mastering Color Theory](https://www.youtube.com/playlist?list=PLeb33PCuqDdd0v89ujWyseb1K-biKEf9W)
 
@@ -9,22 +9,22 @@
 - ❌ <a href="https://www.youtube.com/playlist?list=PLH3tw9J9QyRoA9EfB7YPncAfg4kn5bW44">Graphic Design Workshop</a>
 </details>
 
-## 2.2. Materials Basics - 0
+## 3.2. Materials Basics - 0
 
 - ❌ [Materials Basics](https://www.youtube.com/playlist?list=PLeb33PCuqDddSobQytmavJWtgIzHXq_jR)
 
-## 2.3. Light - 0
+## 3.3. Light - 0
 
 - ❌ [Lighting Course](https://www.youtube.com/playlist?list=PLjEaoINr3zgH9vCr47kSS5W8PEJBNIiwK)
 - ❌ [Mastering Light](https://www.youtube.com/playlist?list=PLeb33PCuqDdfdbDKEShGuYL1PizRly7MW)
 - ❌ [Light](https://www.youtube.com/playlist?list=PLeb33PCuqDddozP1vepPQ091sSWO37lGB)
 - ❌ [Tutorial Gobos Light Textures](https://www.youtube.com/watch?v=Qh7tr4ohDGc)  [:movie_camera:](https://www.youtube.com/watch?v=Qh7tr4ohDGc) [🔽](https://blendermarket.com/products/gobos)
 
-## 2.4. Post-effects - 0
+## 3.4. Post-effects - 0
 
 - ❌ [Mastering Compositing](https://www.youtube.com/playlist?list=PLeb33PCuqDdefedNSn0mSwRiD004Mp1IQ)
 
-## 2.5. Aesthetics in General: Composition
+## 3.5. Aesthetics in General: Composition
 
 - ❌ [Understanding Composition](https://www.picturecorrect.com/the-ultimate-guide-to-understanding-composition/)
 - ❌ [Primary, Secondary And Tertiary Shapes](https://web.archive.org/web/20201207145016/http://www.neilblevins.com/cg_education/primary_secondary_and_tertiary_shapes/primary_secondary_and_tertiary_shapes.htm)
@@ -33,7 +33,7 @@
 - ❌ [Composition Series](https://www.youtube.com/playlist?list=PLeb33PCuqDdeg8fCs1vjKCzEr6m1gzRq5)
 - ❌ [Mastering Composition](https://www.youtube.com/playlist?list=PLeb33PCuqDdcG_bJmpAaCz9WJyh6eyUhw)
 
-## 2.6 Aesthetics in Blender - 0
+## 3.6 Aesthetics in Blender - 0
 
 - ❌ [Aesthetics in Blender](https://www.youtube.com/playlist?list=PLeb33PCuqDdfheg6Uj4TAg3UDfvdCW10I)
 

@@ -70,6 +70,12 @@ Curated collection of lists of useful resources to master CG Art together.
 - [Mastering Low-Poly Modeling](https://www.youtube.com/playlist?list=PLeb33PCuqDdfB7N8pokJrAc_7xAzdVOzl) by [community]() :movie_camera: ( _blender_ ) ( _modeling_ ) ( _modeling_lowpoly_ )
 - [Low-Poly Modeling](https://www.youtube.com/playlist?list=PLn3ukorJv4vsPy9J9x4--pat6jaPqNm11) by [Grant Abbitt](https://www.youtube.com/@grabbitt) :mortar_board: :movie_camera: ( _blender_ ) ( _modeling_ ) ( _modeling_lowpoly_ )
 
+## Low-Poly Modeling - 3
+
+( _modeling_ ) ( _modeling_lowpoly_ ) ( _level_0_ )
+
+- [Low Poly Environments](https://www.youtube.com/playlist?list=PLndvTk6JOzUflybdyFl56AvtSk61GkDWo) by [Polygon Runway](https://www.youtube.com/@polygonrunway) :movie_camera: ( _blender_ ) ( _modeling_ ) ( _modeling_lowpoly_ )
+
 ## Modeling - 1
 
 ( _modeling_ ) ( _level_1_ )

@@ -20,9 +20,9 @@
 
 - ❌ [Creating Diaramas](https://www.youtube.com/playlist?list=PLeb33PCuqDddEGPa3sZTU4LBQ3NeR_nPi)
 
-## 2d from 3D
+## 2d Game Assets from 3D
 
-- ❌ [2D from 3D](https://www.youtube.com/playlist?list=PLeb33PCuqDdcBv_FCujtAkQkypDrAMDv8)
+- ❌ [2d Game Assets from 3D](https://www.youtube.com/playlist?list=PLeb33PCuqDdcBv_FCujtAkQkypDrAMDv8)
 
 ## Grease Pencil - 2
 

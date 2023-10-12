@@ -16,6 +16,14 @@
 
 - ❌ [Interior Visualization](https://www.youtube.com/playlist?list=PLYVR0A4acpNaFiTL-qmxH8fm4DJxqq-vp)
 
+## Creating Diaramas
+
+- ❌ [Creating Diaramas](https://www.youtube.com/playlist?list=PLeb33PCuqDddEGPa3sZTU4LBQ3NeR_nPi)
+
+## 2d from 3D
+
+- ❌ [2D from 3D](https://www.youtube.com/playlist?list=PLeb33PCuqDdcBv_FCujtAkQkypDrAMDv8)
+
 ## Grease Pencil - 2
 
 - ❌ [Mastering Grease Pencil](https://www.youtube.com/playlist?list=PLeb33PCuqDddKTzZYGdWvUtg75RyBzbNg)

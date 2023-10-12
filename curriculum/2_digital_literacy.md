@@ -64,9 +64,13 @@
 
 - ❌ Get familiar with an AI add-on of your choice. For example with [Dream Textures](https://www.youtube.com/watch?v=aCVL9qz6IV0). Make a piece of art with it for your portfolio.
 
-## 2.9. Krita Basics - 1
+## 2.9 Godot Introduction - 1
 
-- ❌ [Krita Basics](https://www.youtube.com/watch?v=NbNQmE6WPK0)
+- ❌ [Godot Introduction](https://www.youtube.com/playlist?list=PLeb33PCuqDdc4c-fbIIo2nc8E1Nykgenh)
+
+## 2.10. Krita Introduction - 1
+
+- ❌ [Krita Introduction](https://www.youtube.com/watch?v=NbNQmE6WPK0)
 
 ## Research
 

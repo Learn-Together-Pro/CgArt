@@ -70,7 +70,7 @@
 
 ## 2.10. Krita Introduction - 1
 
-- ❌ [Krita Introduction](https://www.youtube.com/watch?v=NbNQmE6WPK0)
+- ❌ [Krita Introduction](https://www.youtube.com/playlist?list=PLeb33PCuqDdchwGhntGgl3kuVej7HHzbj)
 
 ## Research
 

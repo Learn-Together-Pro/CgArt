@@ -1,10 +1,10 @@
-# 4. Shaders and Materials
+# 5. Shaders and Materials
 
-## Procedural Materials - 1
+## 5.1. Procedural Materials - 1
 
 - ❌ [Mastering Procedural Materials](https://www.youtube.com/playlist?list=PLeb33PCuqDdeS_vcgnhI6AlrJyGZEIu0C)
 
-## Procedural Modeling - 2
+## 5.2 Procedural Modeling - 2
 
 - ❌ [Geometry Nodes from Scratch](https://studio.blender.org/training/geometry-nodes-from-scratch/)
 - ❌ [Geometry Nodes](https://www.youtube.com/playlist?list=PLnqmLZKRm5CZmfLUZiN-fVdcpgUtgdUnp)

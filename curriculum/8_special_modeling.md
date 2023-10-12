@@ -1,4 +1,4 @@
-# 7. Special Techniques of Modeling
+# 8. Special Techniques of Modeling
 
 ## Sculpting - 2
 

@@ -64,6 +64,10 @@
 
 - ❌ Get familiar with an AI add-on of your choice. For example with [Dream Textures](https://www.youtube.com/watch?v=aCVL9qz6IV0). Make a piece of art with it for your portfolio.
 
+## 2.9. Krita Basics - 1
+
+- ❌ [Krita Basics](https://www.youtube.com/watch?v=NbNQmE6WPK0)
+
 ## Research
 
 <!-- - ❌ Tool for color schema analyzes -->

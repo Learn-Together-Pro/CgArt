@@ -1,9 +1,5 @@
 # 8. Special Techniques of Modeling
 
-## 3D Game Assets - 1
-
-- ❌ [Detailed Game Assets](https://www.youtube.com/playlist?list=PLn3ukorJv4vvDHfsQCACI3qVgdAMfP3-7)
-
 ## Sculpting - 2
 
 - ❌ [Mastering Sculpting](https://www.youtube.com/playlist?list=PLeb33PCuqDdev2xRjCZnHJp0wkCZNf_HN)

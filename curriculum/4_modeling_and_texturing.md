@@ -30,6 +30,7 @@
 - ❌ Create procedural seamless rusted metal texture
 - ❌ Create a [street lamp](./reproduce/street_lamp.jpg)
 model
+- ❌ Create [pipe](./reproduce/industrial-pipes_blend.jpg) model and bake textures 
 
 ## Research
 

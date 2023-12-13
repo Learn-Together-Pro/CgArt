@@ -28,7 +28,7 @@
 
 <!-- - 2.1. ❌ 6 different color schemas -->
 - ❌ Create procedural seamless rusted metal texture
-- ❌ Create a [street lamp](./street_lamp.jpg)
+- ❌ Create a [street lamp](./reproduce/street_lamp.jpg)
 model
 
 ## Research

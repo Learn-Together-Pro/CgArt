@@ -29,7 +29,7 @@
 <!-- - 2.1. ❌ 6 different color schemas -->
 4.1 ❌ [Anvil](https://www.youtube.com/playlist?list=PLjEaoINr3zgHJVJF3T3CFUAZ6z11jKg6a)
     ❌ [Hunting Knife](https://www.youtube.com/watch?v=QXNRrt8EcEg&list=PLn3ukorJv4vvv3ZpWJYvV5Tmvo7ISO-NN&index=14&t=5s)
-4.2 ❌ [Pipes](https://www.youtube.com/watch?v=rYUGd6UQwkY&list=PLeb33PCuqDdd4zGEje71OwLxkXyKqPyIF&index=6)
+4.2 ❌ Create pipe model [pipe](./industrial-pipes_blend.jpg)
 4.3 4.4 [Bake textures](https://www.youtube.com/watch?v=B2kFeMBBBjc&list=PLsGl9GczcgBvJPh7D_ITafvmTW7ZzQTEr&index=5&t=936s)
         [Make lowpoly version of the axe](https://www.youtube.com/watch?v=CJrivIjrAdU&list=PLn3ukorJv4vs8PQj8z_PMbZAVLFEhQF5L&index=7)
         [Bake axe highpoly to lowpoly]

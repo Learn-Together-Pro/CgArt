@@ -31,6 +31,7 @@
 - ❌ Create a [street lamp](./reproduce/street_lamp.jpg)
 model
 - ❌ Create [pipe](./reproduce/industrial-pipes_blend.jpg) model and bake textures 
+- ❌ Create a wood barrel model, add extra geometry using sculpting and bake it to lowpoly 
 
 ## Research
 

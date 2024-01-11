@@ -20,6 +20,7 @@
 
 ## Objectives
 - ❌ [Create this object](https://drive.google.com/drive/folders/1-eGgfqVqv2BHDd47Ed5sWiRjJN4tSzug?usp=sharing)
+- ❌ [Reproduce this model](https://www.artstation.com/artwork/BAJKm)
 
 <!-- - 2.1. ❌ 6 different color schemas -->
 

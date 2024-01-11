@@ -19,7 +19,7 @@
 - ❌ [Stylized Animation](https://www.youtube.com/playlist?list=PLeb33PCuqDddPfUCQ71-4TJHRmaIseexL)
 
 ## Objectives
-- ❌ [Create this object]([https://www.youtube.com/playlist?list=PLeb33PCuqDdcSAxfQ6OmPuIOd-Nu25xap](https://drive.google.com/drive/folders/1-eGgfqVqv2BHDd47Ed5sWiRjJN4tSzug?usp=sharing))
+- ❌ [Create this object](https://drive.google.com/drive/folders/1-eGgfqVqv2BHDd47Ed5sWiRjJN4tSzug?usp=sharing)
 
 <!-- - 2.1. ❌ 6 different color schemas -->
 

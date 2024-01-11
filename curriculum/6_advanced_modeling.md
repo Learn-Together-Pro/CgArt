@@ -21,6 +21,7 @@
 ## Objectives
 - ❌ [Create this object](https://drive.google.com/drive/folders/1-eGgfqVqv2BHDd47Ed5sWiRjJN4tSzug?usp=sharing)
 - ❌ [Reproduce this model](https://www.artstation.com/artwork/BAJKm)
+- ❌ Make box model, get inspiration [from](https://www.artstation.com/ivangorbachov5/collections/2596617) 
 
 <!-- - 2.1. ❌ 6 different color schemas -->
 

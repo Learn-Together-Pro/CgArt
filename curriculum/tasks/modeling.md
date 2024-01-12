@@ -1,5 +1,5 @@
 These tasks are designed to tes your Hard Surface modeling skills 
-1) ❌ **Create box model, get inspiration form these images**
+**1) ❌ Create box model, get inspiration form these images**
    
 ![box_1](/curriculum/reproduce/box_model/box_1.jpg)
 ![box_2](/curriculum/reproduce/box_model/box_2.jpg)
@@ -11,7 +11,7 @@ These tasks are designed to tes your Hard Surface modeling skills
 ![box_8](/curriculum/reproduce/box_model/box_8.jpg)
 ![box_9](/curriculum/reproduce/box_model/box_9.jpg)
 
-2) ❌ **Reproduce this model**
+**2) ❌ Reproduce this model**
 
 ![scope_1](/curriculum/reproduce/vertex_venum_scope_model/scope_1.jpg)
 ![scope_2](/curriculum/reproduce/vertex_venum_scope_model/scope_2.jpg)

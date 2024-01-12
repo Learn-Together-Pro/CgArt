@@ -20,7 +20,7 @@
 
 ## 4.4. Retopology / Retexturing / Baking - 2
 
-- ❌ [Texture Baking Blender Tutorials](https://www.youtube.com/playlist?list=PLsGl9GczcgBvJPh7D_ITafvmTW7ZzQTEr](https://www.youtube.com/playlist?list=PL73p5JRO1I8Nj1Q9m2cDFAAY39cJAFcnd)
+- ❌ [Texture Baking Blender Tutorials](https://www.youtube.com/playlist?list=PL73p5JRO1I8Nj1Q9m2cDFAAY39cJAFcnd)
 - ❌ [Learn Retopology](https://www.youtube.com/playlist?list=PLn3ukorJv4vs8PQj8z_PMbZAVLFEhQF5L)
 - ❌ [Mastering Retopology](https://www.youtube.com/playlist?list=PLeb33PCuqDdeNmUQ3_a-_tLovRKpXGCBb)
 

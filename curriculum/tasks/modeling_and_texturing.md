@@ -3,3 +3,5 @@
 ![lamp](/curriculum/reproduce/street_lamp.jpg)
 ## ❌ Reproduce pipes and bake procedurals textures 
 ![pipes](/curriculum/reproduce/industrial-pipes_blend.jpg)
+## ❌ Create a wood barrel model, add extra geometry using sculpting and bake it to lowpoly 
+## Images for inspiration 

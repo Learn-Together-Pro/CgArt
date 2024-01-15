@@ -27,8 +27,8 @@
 ## Objectives
 
 <!-- - 2.1. ❌ 6 different color schemas -->
-- ❌ Create procedural seamless rusted metal texture
 - ❌ [Modeling and texturing](/curriculum/tasks/modeling_and_texturing.md)
+- ❌ [Procedural texturing](/curriculum/tasks/procedural_texturing.md)
 
 ## Research
 

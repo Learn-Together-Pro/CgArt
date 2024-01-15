@@ -21,6 +21,7 @@
 ## Objectives
 - ❌ [Hard Surface](/curriculum/tasks/modeling.md)
 - ❌ Create 3D model or scene with 2D look
+- ❌ [Create box model](/curriculum/tasks/6_advanced_modeling_create_box.md)
 <!-- - 2.1. ❌ 6 different color schemas -->
 
 ## Research

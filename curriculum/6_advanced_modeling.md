@@ -19,7 +19,7 @@
 - ❌ [Stylized Animation](https://www.youtube.com/playlist?list=PLeb33PCuqDddPfUCQ71-4TJHRmaIseexL)
 
 ## Objectives
-- ❌ [Hard Surface](/curriculum/tasks/modeling.md)
+- ❌ [Reproduce scope](curriculum/tasks/6_advanced_modeling_scope.md)
 - ❌ Create 3D model or scene with 2D look
 - ❌ [Create box model](/curriculum/tasks/6_advanced_modeling_create_box.md)
 - ❌ [Reproduce model with BoxCutter](/curriculum/tasks/6_advanced_modeling_boxcutter.md)

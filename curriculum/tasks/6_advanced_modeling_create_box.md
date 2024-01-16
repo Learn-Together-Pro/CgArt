@@ -1,4 +1,4 @@
-# ❌ Create box model using boolean modifier, get inspiration form these images
+# ❌ Create box model using boolean modifier, get inspiration from these images
 ## This task was created to consolidate your knowledge in modifiers and topology and let you show your imagination
 ### Models should not have N-gons, overlaping, duplicate vertices or other issues in topology 
    

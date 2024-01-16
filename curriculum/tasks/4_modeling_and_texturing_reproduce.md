@@ -1,5 +1,5 @@
 # These tasks are aimed at testing your skills in modeling, procedural texturing.
-# Practice make perfect
+# _Practice make perfect_
 ### Models should not have N-gons, overlaping, duplicate vertices or other issues in topology 
 ## ❌ Reproduce a street lamp model with glowing bulb inside
 ![lamp](/curriculum/reproduce/street_lamp.jpg)

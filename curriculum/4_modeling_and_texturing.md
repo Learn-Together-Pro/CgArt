@@ -27,7 +27,7 @@
 ## Objectives
 
 <!-- - 2.1. ❌ 6 different color schemas -->
-- ❌ [Reproduce models](curriculum/tasks/4_modeling_and_texturing_reproduce.md)
+- ❌ [Reproduce models](/curriculum/tasks/4_modeling_and_texturing_reproduce.md)
 - ❌ [Create barrel model](/curriculum/tasks/4_modeling_and_texturing_create_barrel.md)
 - ❌ [Procedural texture](/curriculum/tasks/procedural_texturing.md)
 

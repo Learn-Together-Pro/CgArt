@@ -19,8 +19,7 @@
 - ❌ [Stylized Animation](https://www.youtube.com/playlist?list=PLeb33PCuqDddPfUCQ71-4TJHRmaIseexL)
 
 ## Objectives
-- ❌ [Hard Surface](/curriculum/tasks/modeling.md)
-- ❌ Create 3D model or scene with 2D look
+
 <!-- - 2.1. ❌ 6 different color schemas -->
 
 ## Research

@@ -47,9 +47,9 @@ Make sure you have for each objective a collage of all variations with explanati
 - 2.3. ❌ Create scene in Blender and make 4 renders with different gobo lighting techniques, [check out](https://www.youtube.com/watch?v=ElMM3u2MO5k)
 - 2.4. ❌ Set up 3 different set of post-effects in blender to make your render look completely different
 - 2.5. ❌ Render 4 images of model with different focal points
-- 2.6. ❌ 4 different structures
-- 2.7. ❌ 4 different balance
-- 2.8. ❌ 4 different moods
+- 2.6. ❌ Create scene in Blender and make 4 renders with different structures
+- 2.7. ❌ Create scene in Blender and make 4 renders with different balance
+- 2.8. ❌ Create scene in Blender and make 4 renders with different moods
 - 2.9. ❌ Categorize 8 images from [here](https://dylancolestudio.com/avatar-1) according to [light](https://www.youtube.com/watch?v=RG83v_oQ4DY)
 - 2.10. ❌ Paint [3 levels of details](https://www.youtube.com/watch?v=qMH_J_vcoqE) of 4 CG art pieces of your choice
 

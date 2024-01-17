@@ -29,7 +29,7 @@
 - ❌ [Understanding Composition](https://www.picturecorrect.com/the-ultimate-guide-to-understanding-composition/)
 - ❌ [Primary, Secondary And Tertiary Shapes](https://web.archive.org/web/20201207145016/http://www.neilblevins.com/cg_education/primary_secondary_and_tertiary_shapes/primary_secondary_and_tertiary_shapes.htm)
 - ❌ [Composition Types](https://digitaltutorials.tumblr.com/post/93875580694/this-article-was-written-by-phil-straub-back-in)
-- ❌ [Composition for Artists](https://www.youtube.com/playlist?list=PLV2X3tgajVlHEWoxhxHBV5JyU7R80LT9R)
+- ❌ [Composition for Artists](https://www.youtube.com/playlist?list=PLuaeesCJNbnzmkOU_tsBHctUBDGiJ5iAQ)
 - ❌ [Composition Series](https://www.youtube.com/playlist?list=PLeb33PCuqDdeg8fCs1vjKCzEr6m1gzRq5)
 - ❌ [Mastering Composition](https://www.youtube.com/playlist?list=PLeb33PCuqDdcG_bJmpAaCz9WJyh6eyUhw)
 
@@ -55,5 +55,4 @@ Make sure you have for each objective a collage of all variations with explanati
 
 ## Research
 
-- ❌ Tool for color schema analyzes
 - ❌ Find source of [product renderings](https://youtu.be/y6WKm62mhIo?t=64)

@@ -71,6 +71,7 @@
 ## 2.10. Krita Introduction - 1
 
 - ❌ [Krita Introduction](https://www.youtube.com/playlist?list=PLeb33PCuqDdchwGhntGgl3kuVej7HHzbj)
+- ❌ Create art in Krita with characters in the foreground and group layers with objects intro folders 
 
 ## Research
 

@@ -41,12 +41,12 @@
 
 Make sure you have for each objective a collage of all variations with explanations and without in your directory.
 
-- 2.1. ❌ 6 different color schemas
-- 2.2. ❌ 4 different lighting techniques with simple scenes, [check out](https://www.youtube.com/watch?v=y6WKm62mhIo)
+- 2.1. ❌ Create art in Blender and make 6 renders with different color schemas 
+- 2.2. ❌ Create simple scene in Blender and make 4 renders with different lighting techniques, [check out](https://www.youtube.com/watch?v=y6WKm62mhIo)
   - ❌1 uses IES
-- 2.3. ❌ 4 different gobo lighting techniques, [check out](https://www.youtube.com/watch?v=ElMM3u2MO5k)
-- 2.4. ❌ 3 different set of post-effects to make it look completely different
-- 2.5. ❌ 4 different focal points
+- 2.3. ❌ Create scene in Blender and make 4 renders with different gobo lighting techniques, [check out](https://www.youtube.com/watch?v=ElMM3u2MO5k)
+- 2.4. ❌ Set up 3 different set of post-effects in blender to make your render look completely different
+- 2.5. ❌ Render 4 images of model with different focal points
 - 2.6. ❌ 4 different structures
 - 2.7. ❌ 4 different balance
 - 2.8. ❌ 4 different moods

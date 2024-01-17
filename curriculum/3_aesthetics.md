@@ -41,7 +41,7 @@
 
 Make sure you have for each objective a collage of all variations with explanations and without in your directory.
 
-- 2.1. ❌ Create art in Blender and make 6 renders with different color schemas 
+- 2.1. ❌ 6 different color schemas
 - 2.2. ❌ 4 different lighting techniques with simple scenes, [check out](https://www.youtube.com/watch?v=y6WKm62mhIo)
   - ❌1 uses IES
 - 2.3. ❌ 4 different gobo lighting techniques, [check out](https://www.youtube.com/watch?v=ElMM3u2MO5k)

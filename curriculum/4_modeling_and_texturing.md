@@ -20,18 +20,13 @@
 
 ## 4.4. Retopology / Retexturing / Baking - 2
 
-- ❌ [Texture Baking Blender Tutorials](https://www.youtube.com/playlist?list=PLsGl9GczcgBvJPh7D_ITafvmTW7ZzQTEr](https://www.youtube.com/playlist?list=PL73p5JRO1I8Nj1Q9m2cDFAAY39cJAFcnd)
+- ❌ [Texture Baking Blender Tutorials](https://www.youtube.com/playlist?list=PLsGl9GczcgBvJPh7D_ITafvmTW7ZzQTEr)
 - ❌ [Learn Retopology](https://www.youtube.com/playlist?list=PLn3ukorJv4vs8PQj8z_PMbZAVLFEhQF5L)
 - ❌ [Mastering Retopology](https://www.youtube.com/playlist?list=PLeb33PCuqDdeNmUQ3_a-_tLovRKpXGCBb)
 
 ## Objectives
 
 <!-- - 2.1. ❌ 6 different color schemas -->
-- ❌ Create procedural seamless rusted metal texture
-- ❌ Create a [street lamp](./reproduce/street_lamp.jpg)
-model
-- ❌ Create [pipe](./reproduce/industrial-pipes_blend.jpg) model and bake textures 
-- ❌ Create a wood barrel model, add extra geometry using sculpting and bake it to lowpoly 
 
 ## Research
 

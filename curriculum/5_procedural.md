@@ -11,6 +11,7 @@
 - ❌ [Mastering Procedural Modeling](https://www.youtube.com/playlist?list=PLeb33PCuqDdfmHsZMXGmMTZKt92_nCMr8)
 
 ## Objectives
+- ❌ Create your own scene using geonodes, get inspiration [from](https://www.youtube.com/@maxhayart)
 
 <!-- - 2.1. ❌ 6 different color schemas -->
 

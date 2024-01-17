@@ -67,6 +67,7 @@
 ## 2.9 Godot Introduction - 1
 
 - ❌ [Godot Introduction](https://www.youtube.com/playlist?list=PLeb33PCuqDdc4c-fbIIo2nc8E1Nykgenh)
+- ❌ Create game level in Godot where players must navigate and strategically overcome a series of challenging structural barriers.
 
 ## 2.10. Krita Introduction - 1
 

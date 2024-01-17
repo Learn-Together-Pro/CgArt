@@ -1,6 +1,6 @@
 # 1. Basics
 
-It's expected that you've already took [iconic course](https://www.youtube.com/playlist?list=PLjEaoINr3zgFX8ZsChQVQsuDSjEqdWMAD) of Blender Guru as well as a course on modeling.
+It's expected that you've already took [iconic course](https://www.youtube.com/playlist?list=PLjEaoINr3zgEPv5y--4MKpciLaoQYZB1Z) of Blender Guru as well as a course on modeling.
 
 ## 1.1. Blender Basics
 

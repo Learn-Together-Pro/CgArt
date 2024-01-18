@@ -1,4 +1,4 @@
-# Create art in Blender and make 6 renders with different color schemas 
+# Create scene in Blender and make 4 renders with different balance
 ## REMARK 
 ### This exercise is given to test test your understanding of the material and foster the development of imagination.
 ## RESTRICTIONS 

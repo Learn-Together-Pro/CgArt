@@ -1,4 +1,4 @@
-# Create art in Blender and make 6 renders with different color schemas 
+# Set up 3 different set of post-effects in blender to make your render look completely different
 ## REMARK 
 ### This exercise is given to test test your understanding of the material and foster the development of imagination.
 ## RESTRICTIONS 

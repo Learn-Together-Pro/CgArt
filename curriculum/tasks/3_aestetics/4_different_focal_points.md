@@ -2,5 +2,5 @@
 ## REMARK 
 ### This exercise is given to test test your understanding of the material and foster the development of imagination.
 ## RESTRICTIONS 
-### All renders should be provided in one image.
+### All renders should be provided in one image, focal points must be marked by arrows. And method for creating focal point must be signed or clearly indicated 
 

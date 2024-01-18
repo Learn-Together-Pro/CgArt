@@ -2,5 +2,5 @@
 ## REMARK 
 ### This exercise is given to test test your understanding of the material and foster the development of imagination.
 ## RESTRICTIONS 
-### All renders should be provided in one image. Mark balance point on image 
+### All renders should be provided in one image. Mark balance points on image 
 

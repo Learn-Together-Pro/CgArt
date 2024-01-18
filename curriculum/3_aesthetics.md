@@ -41,7 +41,7 @@
 
 Make sure you have for each objective a collage of all variations with explanations and without in your directory.
 
-- 2.1. ❌ [Different color schemas](curriculum/tasks/3_aestetics/6_different_color_schemas.md)
+- 2.1. ❌ [Different color schemas](/curriculum/tasks/3_aestetics/6_different_color_schemas.md)
 - 2.2. ❌ Create simple scene in Blender and make 4 renders with different lighting techniques, [check out](https://www.youtube.com/watch?v=y6WKm62mhIo)
   - ❌1 uses IES
 - 2.3. ❌ Create scene in Blender and make 4 renders with different gobo lighting techniques, [check out](https://www.youtube.com/watch?v=ElMM3u2MO5k)

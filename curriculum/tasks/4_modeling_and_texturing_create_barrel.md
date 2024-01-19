@@ -1,4 +1,4 @@
-# ❌ Create a wood barrel model with textures, add extra geometry using sculpting and bake it to lowpoly model (try to minimize the number of polygons).
+# ❌ Create a wood barrel model with painted textures, try to minimize the number of polygons.
 ## REMARK 
 ### This task will not take much time, but will test and consolidate your skills in modeling and texture baking
 ## RESTRICTIONS 

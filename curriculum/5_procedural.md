@@ -13,6 +13,7 @@
 ## Objectives
 - ❌ Create your own scene using geonodes, get inspiration [from](https://www.youtube.com/@maxhayart)
 - ❌ [Procedural material](/curriculum/tasks/4_procedural_texturing.md)
+- ❌ [Create abstract sphere](/curriculum/tasks/5_procedural/create_procedural_sphere.md)
 
 <!-- - 2.1. ❌ 6 different color schemas -->
 

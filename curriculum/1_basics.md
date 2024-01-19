@@ -17,7 +17,7 @@ It's expected that you've already took [iconic course](https://www.youtube.com/p
 - ❌ [Low-Poly Modeling](https://www.youtube.com/playlist?list=PLn3ukorJv4vsPy9J9x4--pat6jaPqNm11)
 
 ## Objectives
-- ❌ Make 3 more low-poly dioramas, get inspiration [from](https://www.youtube.com/playlist?list=PLndvTk6JOzUflybdyFl56AvtSk61GkDWo)
+- ❌ [Make 3 more low-poly dioramas](/curriculum/1_basics/Create_lowpoly_diorams.md)
 
 <!-- - 2.1. ❌ 6 different color schemas -->
 

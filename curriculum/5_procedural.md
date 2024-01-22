@@ -14,6 +14,7 @@
 - ❌ Create your own scene using geonodes, get inspiration [from](https://www.youtube.com/@maxhayart)
 - ❌ [Procedural material](/curriculum/tasks/5_procedural/procedural_material.md)
 - ❌ [Create abstract sphere](/curriculum/tasks/5_procedural/create_procedural_sphere.md)
+- ❌ [Reproduce spiral](/curriculum/tasks/5_procedural/procedural_spiral.md)
 
 <!-- - 2.1. ❌ 6 different color schemas -->
 

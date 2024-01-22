@@ -1,4 +1,5 @@
-# 2) ❌ Reproduce this model, unwrap Uv and create realistic textures
+# 2) ❌ Reproduce model
+Reproduce scope model, unwrap Uv and create realistic textures
 REMARK: 
 This task was created to consolidate your skills in Uv unwrapping and texturing. This model was chosen because it contein small details, which can complicate Uv unwrapping if topology has some problems 
 

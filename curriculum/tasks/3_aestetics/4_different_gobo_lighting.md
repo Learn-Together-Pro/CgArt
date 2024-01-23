@@ -3,5 +3,5 @@ Create scene in Blender and make 4 renders with different gobo lighting techniqu
 
 REMARK: This exercise is given to test test your understanding of the material and foster the development of imagination.
 
-RESTRICTIONS: All renders should be provided in one image.
+REQUIREMENTS: All renders should be provided in one image.
 

@@ -3,5 +3,5 @@ Create simple scene in Blender and make 4 renders with different lighting techni
 
 REMARK: This exercise is given to test test your understanding of the material and foster the development of imagination.
 
-RESTRICTIONS: All renders should be provided in one image. Write down what mood you put into render.
+REQUIREMENTS: All renders should be provided in one image. Write down what mood you put into render.
 

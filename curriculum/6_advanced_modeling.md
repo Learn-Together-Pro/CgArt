@@ -20,7 +20,7 @@
 
 ## Objectives
 - ❌ [Reproduce scope](/curriculum/tasks/6_advanced_modeling_scope.md)
-- ❌ Create 3D model or scene with 2D look
+- ❌ [Create 2.5D model](/curriculum/tasks/6_andvanced_modeling_2D_3D.md)
 - ❌ [Create box model](/curriculum/tasks/6_advanced_modeling_create_box.md)
 - ❌ [Reproduce model with BoxCutter](/curriculum/tasks/6_advanced_modeling_boxcutter.md)
 <!-- - 2.1. ❌ 6 different color schemas -->

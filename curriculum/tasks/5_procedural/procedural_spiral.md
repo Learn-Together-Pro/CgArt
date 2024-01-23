@@ -1,6 +1,6 @@
 # Create a procedural spiral that will follow the shape of the curve using geometry nodes. Make a convenient menu of spiral settings 
 
-https://github.com/IGorbachov/CgArt/assets/146670945/77a13b2b-79e1-427b-b902-9ae3a44bf68a
+![geonodes_spiral](/curriculum/reproduce/5_procedural/genodes_spiral.png)
 
 # Create animation using your geometry nodes
 

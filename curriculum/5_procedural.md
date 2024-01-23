@@ -8,9 +8,9 @@
 
 - ❌ [Geometry Nodes from Scratch](https://studio.blender.org/training/geometry-nodes-from-scratch/)
   - ❌ Basic
- - ❌ Data Structure
- - ❌ Fields
- - ❌ Attribute Propagation
+  - ❌ Data Structure
+  - ❌ Fields
+  - ❌ Attribute Propagation
 - ❌ [Geometry Nodes](https://www.youtube.com/playlist?list=PLnqmLZKRm5CZmfLUZiN-fVdcpgUtgdUnp)
 - ❌ [Mastering Procedural Modeling](https://www.youtube.com/playlist?list=PLeb33PCuqDdfmHsZMXGmMTZKt92_nCMr8)
 

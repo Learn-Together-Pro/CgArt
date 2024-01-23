@@ -3,5 +3,5 @@ Categorize 8 images from [here](https://dylancolestudio.com/avatar-1) according 
 
 REMARK: This exercise is given to test test your understanding of the material 
 
-RESTRICTIONS: Provide a table with arranged images 
+REQUIREMENTS: Provide a table with arranged images 
 

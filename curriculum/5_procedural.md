@@ -15,7 +15,7 @@
 - ❌ [Mastering Procedural Modeling](https://www.youtube.com/playlist?list=PLeb33PCuqDdfmHsZMXGmMTZKt92_nCMr8)
 
 ## Objectives
-- ❌ Create your own scene using geonodes, get inspiration [from](https://www.youtube.com/@maxhayart)
+- ❌ [Create scene with geonodes](/curriculum/tasks/5_procedural/scene_geonodes.md)
 - ❌ [Procedural material](/curriculum/tasks/5_procedural/procedural_material.md)
 - ❌ [Create abstract sphere](/curriculum/tasks/5_procedural/create_procedural_sphere.md)
 - ❌ [Reproduce spiral](/curriculum/tasks/5_procedural/procedural_spiral.md)

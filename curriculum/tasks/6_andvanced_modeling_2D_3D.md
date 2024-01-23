@@ -1,5 +1,6 @@
 # Create 3D model or scene with 2D look
 2.5D works for inspiration
+
 This task for the 2D/3D modeling section in advanced modeling chapter
 
 ![2.5_gif](/curriculum/reproduce/2.5D/2.5D_scene.gif)

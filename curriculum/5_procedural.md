@@ -7,7 +7,7 @@
 ## 5.2 Procedural Modeling - 2
 
 - ❌ [Geometry Nodes from Scratch](https://studio.blender.org/training/geometry-nodes-from-scratch/)
- - ❌ Basic
+  - ❌ Basic
  - ❌ Data Structure
  - ❌ Fields
  - ❌ Attribute Propagation

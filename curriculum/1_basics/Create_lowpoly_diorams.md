@@ -1,3 +1,2 @@
 # Make 3 more low-poly dioramas, get inspiration [from](https://www.youtube.com/playlist?list=PLndvTk6JOzUflybdyFl56AvtSk61GkDWo)
-## REMARK 
-### This exercise is given to test your understanding of modeling and texturing and foster the development of imagination.
+Remark: This exercise is given to test your understanding of modeling and texturing and foster the development of imagination.

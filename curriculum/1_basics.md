@@ -1,6 +1,6 @@
 # 1. Basics
 
-It's expected that you've already took [iconic course](https://www.youtube.com/playlist?list=PLjEaoINr3zgFX8ZsChQVQsuDSjEqdWMAD) of Blender Guru as well as a course on modeling.
+It's expected that you've already took [iconic course](https://www.youtube.com/playlist?list=PLjEaoINr3zgEPv5y--4MKpciLaoQYZB1Z) of Blender Guru as well as a course on modeling.
 
 ## 1.1. Blender Basics
 
@@ -14,13 +14,10 @@ It's expected that you've already took [iconic course](https://www.youtube.com/p
 ## 1.3. Low-Poly Modeling - 0
 
 - ❌ [Mastering Low-Poly Modeling](https://www.youtube.com/playlist?list=PLeb33PCuqDdfB7N8pokJrAc_7xAzdVOzl)
-- ❌ Reproduce all models [from](https://www.youtube.com/playlist?list=PLeb33PCuqDdfB7N8pokJrAc_7xAzdVOzl)
 - ❌ [Low-Poly Modeling](https://www.youtube.com/playlist?list=PLn3ukorJv4vsPy9J9x4--pat6jaPqNm11)
-- ❌ Reproduce all models [from](https://www.youtube.com/playlist?list=PLn3ukorJv4vsPy9J9x4--pat6jaPqNm11)
-- ❌ Make 1 low-poly diorama, get inspiration [from](https://www.youtube.com/playlist?list=PLndvTk6JOzUflybdyFl56AvtSk61GkDWo)
-- ❌ Make 3 more low-poly dioramas, get inspiration [from](https://www.youtube.com/playlist?list=PLndvTk6JOzUflybdyFl56AvtSk61GkDWo)
 
 ## Objectives
+- ❌ [Make 3 more low-poly dioramas](/curriculum/1_basics/Create_lowpoly_diorams.md)
 
 <!-- - 2.1. ❌ 6 different color schemas -->
 

@@ -20,13 +20,16 @@
 
 ## 4.4. Retopology / Retexturing / Baking - 2
 
-- ❌ [Texture Baking Blender Tutorials](https://www.youtube.com/playlist?list=PLsGl9GczcgBvJPh7D_ITafvmTW7ZzQTEr)
+- ❌ [Texture Baking Blender Tutorials](https://www.youtube.com/playlist?list=PL73p5JRO1I8Nj1Q9m2cDFAAY39cJAFcnd)
 - ❌ [Learn Retopology](https://www.youtube.com/playlist?list=PLn3ukorJv4vs8PQj8z_PMbZAVLFEhQF5L)
 - ❌ [Mastering Retopology](https://www.youtube.com/playlist?list=PLeb33PCuqDdeNmUQ3_a-_tLovRKpXGCBb)
 
 ## Objectives
 
 <!-- - 2.1. ❌ 6 different color schemas -->
+- ❌ [Reproduce models](/curriculum/tasks/4_modeling_and_texturing_reproduce.md)
+- ❌ [Create barrel model](/curriculum/tasks/4_modeling_and_texturing_create_barrel.md)
+- ❌ [Create chest model](/curriculum/tasks/bake_texture.md)
 
 ## Research
 

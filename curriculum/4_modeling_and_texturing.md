@@ -29,7 +29,7 @@
 <!-- - 2.1. ❌ 6 different color schemas -->
 - ❌ [Reproduce models](/curriculum/tasks/4_modeling_and_texturing_reproduce.md)
 - ❌ [Create barrel model](/curriculum/tasks/4_modeling_and_texturing_create_barrel.md)
-- ❌ [Procedural texture](/curriculum/tasks/4_procedural_texturing.md)
+- ❌ [Create chest model](/curriculum/tasks/bake_texture.md)
 
 ## Research
 

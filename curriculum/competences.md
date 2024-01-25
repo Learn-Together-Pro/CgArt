@@ -20,7 +20,7 @@
   - Tangent in art
   - Focal points
   - Visual paths
-  - Horizont line
+  - Horizon line
   - Negative and Positive Space
   - Sedate, Alert & Dynamic elements
   - Foreground, Midground, & Background

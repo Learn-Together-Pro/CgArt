@@ -1,4 +1,4 @@
-# Create art in Krita
-Create art in Krita with characters in the foreground and mountains in the background. 
+# Create digital artwork in Krita
+Apply the knowledge gained to create a simple digital artwork of your choice.
 
-You can compose art from different images from internet or draw everything yourself
+You can create art using photobrash or draw everything yourself

@@ -4,7 +4,7 @@
 
 This task for the 2D/3D modeling section in advanced modeling chapter
 
-![2.5_gif](/curriculum/6_advanced_modeling/images/2.5d/2.5d_scene.gif)
+![2.5_gif](/curriculum/6_advanced_modeling/images/2.5d/cat_shop_scene.gif)
 ![2.5_image_3](/curriculum/6_advanced_modeling/images/2.5d/mouse_city.jpg)
 ![2.5_image_4](/curriculum/6_advanced_modeling/images/2.5d/snowhunt_scene.jpg)
 ![2.5_image_5](/curriculum/6_advanced_modeling/images/2.5d/table_painting_scene.jpg)

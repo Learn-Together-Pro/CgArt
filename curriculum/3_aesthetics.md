@@ -29,7 +29,7 @@
 - ❌ [Understanding Composition](https://www.picturecorrect.com/the-ultimate-guide-to-understanding-composition/)
 - ❌ [Primary, Secondary And Tertiary Shapes](https://web.archive.org/web/20201207145016/http://www.neilblevins.com/cg_education/primary_secondary_and_tertiary_shapes/primary_secondary_and_tertiary_shapes.htm)
 - ❌ [Composition Types](https://digitaltutorials.tumblr.com/post/93875580694/this-article-was-written-by-phil-straub-back-in)
-- ❌ [Composition for Artists](https://www.youtube.com/playlist?list=PLV2X3tgajVlHEWoxhxHBV5JyU7R80LT9R)
+- ❌ [Composition for Artists](https://www.youtube.com/playlist?list=PLuaeesCJNbnzmkOU_tsBHctUBDGiJ5iAQ)
 - ❌ [Composition Series](https://www.youtube.com/playlist?list=PLeb33PCuqDdeg8fCs1vjKCzEr6m1gzRq5)
 - ❌ [Mastering Composition](https://www.youtube.com/playlist?list=PLeb33PCuqDdcG_bJmpAaCz9WJyh6eyUhw)
 
@@ -41,19 +41,17 @@
 
 Make sure you have for each objective a collage of all variations with explanations and without in your directory.
 
-- 2.1. ❌ 6 different color schemas
-- 2.2. ❌ 4 different lighting techniques with simple scenes, [check out](https://www.youtube.com/watch?v=y6WKm62mhIo)
-  - ❌1 uses IES
-- 2.3. ❌ 4 different gobo lighting techniques, [check out](https://www.youtube.com/watch?v=ElMM3u2MO5k)
-- 2.4. ❌ 3 different set of post-effects to make it look completely different
-- 2.5. ❌ 4 different focal points
-- 2.6. ❌ 4 different structures
-- 2.7. ❌ 4 different balance
-- 2.8. ❌ 4 different moods
-- 2.9. ❌ Categorize 8 images from [here](https://dylancolestudio.com/avatar-1) according to [light](https://www.youtube.com/watch?v=RG83v_oQ4DY)
-- 2.10. ❌ Paint [3 levels of details](https://www.youtube.com/watch?v=qMH_J_vcoqE) of 4 CG art pieces of your choice
+- 2.1. ❌ [Different color schemas](/curriculum/tasks/3_aestetics/6_different_color_schemas.md)
+- 2.2. ❌ [Different lighting techniques](/curriculum/tasks/3_aestetics/4_different_lighting_techniques.md)
+- 2.3. ❌ [Different gobo lighting techniques](/curriculum/tasks/3_aestetics/4_different_gobo_lighting.md)
+- 2.4. ❌ [Different set of post-effects](/curriculum/tasks/3_aestetics/3_different_set_of_post-effects.md)
+- 2.5. ❌ [Different focal points](/curriculum/tasks/3_aestetics/4_different_focal_points.md)
+- 2.6. ❌ [Different structures](/curriculum/tasks/3_aestetics/4_different_structures.md)
+- 2.7. ❌ [Different balance](/curriculum/tasks/3_aestetics/different_balance.md)
+- 2.8. ❌ [4 renders with different moods](/curriculum/tasks/3_aestetics/4_different_moods.md)
+- 2.9. ❌ [Categorize 8 images from](/curriculum/tasks/3_aestetics/Categorize_8_images.md)
+- 2.10. ❌ [Paint 3 levels of details](/curriculum/tasks/3_aestetics/Paint_3_levels_of_details.md)
 
 ## Research
 
-- ❌ Tool for color schema analyzes
 - ❌ Find source of [product renderings](https://youtu.be/y6WKm62mhIo?t=64)

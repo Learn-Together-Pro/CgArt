@@ -1,0 +1,31 @@
+# 3 Aestetics
+- Color Theory
+  - Color schemes
+  - Color harmony
+  - Ambient light
+- Blender color spaces
+- Basics of Blender Materials
+- Lightning
+  - Gobo lightning
+  - Blender volumetric lightning
+  - Different lighting techniques
+- Compositing in Blender
+- Composition
+  - Primary, Secondary, and Tertiary Shapes
+  - Composition Types
+  - Clumping And Grouping
+  - Contrasts In Composition
+  - Areas Of Visual Detail, Areas Of Visual Rest
+  - Compositional Weight
+  - Tangent in art
+  - Focal points
+  - Visual paths
+  - Horizon line
+  - Negative and Positive Space
+  - Sedate, Alert & Dynamic elements
+  - Foreground, Midground, & Background
+  - Leading the Eye
+  - Contrast
+  - Framing
+    
+  

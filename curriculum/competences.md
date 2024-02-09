@@ -1,22 +1,22 @@
 # 1 Basics
 - Blender basics
- - Navigation and selection
- - Transform and editing object data
- - parenting
- - Duplicate and instances
- - Pivot points, snaping and proportional editing
- - Normals and smooth shading
- - Extrude, inset, knife tool
- - Subdivide, fill, merge, bevel
- - Edge loop and edge slide
- - Object Modifiers
- - Splitting, joining and swapping editors
- - Working with files
- - Cameras and rendereing
- - Materials and lighting
- - 3D animation
- - Grese Pencil 2D animation
- - Digital sculpting
+  - Navigation and selection
+  - Transform and editing object data
+  - parenting
+  - Duplicate and instances
+  - Pivot points, snaping and proportional editing
+  - Normals and smooth shading
+  - Extrude, inset, knife tool
+  - Subdivide, fill, merge, bevel
+  - Edge loop and edge slide
+  - Object Modifiers
+  - Splitting, joining and swapping editors
+  - Working with files
+  - Cameras and rendereing
+  - Materials and lighting
+  - 3D animation
+  - Grese Pencil 2D animation
+  - Digital sculpting
 - Different styles in modeling
 - Modifiers
 - Midpoly modeling

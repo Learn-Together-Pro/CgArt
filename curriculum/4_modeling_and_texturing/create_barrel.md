@@ -1,4 +1,5 @@
 # ❌ Modeling and painting textures
+
 Create a wood barrel model with painted textures, try to minimize the number of polygons.
 
 REMARK: This task will not take much time, but will test and consolidate your skills in modeling and texture baking

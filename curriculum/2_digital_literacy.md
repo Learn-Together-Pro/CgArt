@@ -67,12 +67,12 @@
 ## 2.9 Godot Introduction - 1
 
 - ❌ [Godot Introduction](https://www.youtube.com/playlist?list=PLeb33PCuqDdc4c-fbIIo2nc8E1Nykgenh)
-- ❌ [Create game level](/curriculum/tasks/2_digital_literacy/godot.md)
+- ❌ [Create game level](/curriculum/2_digital_literacy/godot.md)
 
 ## 2.10. Krita Introduction - 1
 
 - ❌ [Krita Introduction](https://www.youtube.com/playlist?list=PLeb33PCuqDdchwGhntGgl3kuVej7HHzbj)
-- ❌ [Create art in Krita](/curriculum/tasks/2_digital_literacy/Krita.md)
+- ❌ [Create art in Krita](/curriculum/2_digital_literacy/Krita.md)
 
 ## Research
 

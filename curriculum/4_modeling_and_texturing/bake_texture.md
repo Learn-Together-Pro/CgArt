@@ -1,4 +1,5 @@
 # Create a chest model
+
 Create a chest model, divide it into low and high models. Add extra geometry to high model and bake it to low
 
 RESTRICTIONS: Models should not have N-gons, overlaping, duplicate vertices or other issues in topology. Try to minimize the number of polygons in the low model

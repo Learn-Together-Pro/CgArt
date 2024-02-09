@@ -2,4 +2,4 @@
 
 Create material change with Proximity geometry node.
 
-![proximity](/curriculum/reproduce/5_procedural/proximity.gif)
+![proximity](/curriculum/5_procedural/proximity.gif)

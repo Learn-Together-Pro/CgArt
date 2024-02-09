@@ -23,7 +23,18 @@
 - Riging
 
 # 2 Digital literacy
-
+- Goodle Drive
+   - How to use Google Drive for Desktop
+   - How to sync multiple Google Drive accounts to one computer
+   - How to use Google Drive Efficienlty
+- Git and GitHub
+   - Using Git in local machine
+   - Commiting
+   - Git push
+   - SSH Keys
+   - Github workflow
+     
+     
 
 
 # 3 Aestetics

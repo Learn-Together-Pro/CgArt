@@ -8,7 +8,7 @@ You can use these images for inspiration or find your own.
 
 P.S. You must create your own model, not repeat an existing one
 
-![chest](/curriculum/reproduce/chest_box/chest_2.jpg)
-![chest_2](/curriculum/reproduce/chest_box/chest_3.jpg)
-![chest_3](/curriculum/reproduce/chest_box/chest_4.jpg)
-![chest_4](/curriculum/reproduce/chest_box/chest.jpg)
+![chest](/curriculum/4_modeling_and_texturing/chest_box/chest_2.jpg)
+![chest_2](/curriculum/4_modeling_and_texturing/chest_box/chest_3.jpg)
+![chest_3](/curriculum/4_modeling_and_texturing/chest_box/chest_4.jpg)
+![chest_4](/curriculum/4_modeling_and_texturing/chest_box/chest.jpg)

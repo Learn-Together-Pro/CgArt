@@ -33,8 +33,25 @@
    - Git push
    - SSH Keys
    - Github workflow
-     
-     
+   - Git branching
+   - Git forking
+- Markdown
+- Blender settings
+- Blender hotkeys
+- Blender assets management
+- How to install addons in Blender
+- Godot
+   - Creating 2D scene
+   - UI
+   - Creating player character
+   - Default player scripts
+   - Animate player
+   - Tilemaps and tilesets
+   - Mob Ai scripting
+   - Saving and loading the game
+   - Spawning items
+   - Random numbers generator
+
 
 
 # 3 Aestetics

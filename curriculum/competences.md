@@ -51,6 +51,9 @@
    - Saving and loading the game
    - Spawning items
    - Random numbers generator
+- Krita
+   - Navigation and tools
+   - Digital painting basics
 
 
 

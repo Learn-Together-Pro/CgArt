@@ -27,9 +27,9 @@
 ## Objectives
 
 <!-- - 2.1. ❌ 6 different color schemas -->
-- ❌ [Reproduce models](/curriculum/tasks/4_modeling_and_texturing_reproduce.md)
-- ❌ [Create barrel model](/curriculum/tasks/4_modeling_and_texturing_create_barrel.md)
-- ❌ [Create chest model](/curriculum/tasks/bake_texture.md)
+- ❌ [Reproduce models](/curriculum/4_modeling_and_texturing/reproduce.md)
+- ❌ [Create barrel model](/curriculum/4_modeling_and_texturing/create_barrel.md)
+- ❌ [Create chest model](/curriculum/4_modeling_and_texturing/bake_texture.md)
 
 ## Research
 

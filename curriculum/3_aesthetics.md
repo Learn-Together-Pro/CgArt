@@ -41,16 +41,16 @@
 
 Make sure you have for each objective a collage of all variations with explanations and without in your directory.
 
-- 2.1. ❌ [Different color schemas](/curriculum/tasks/3_aestetics/6_different_color_schemas.md)
-- 2.2. ❌ [Different lighting techniques](/curriculum/tasks/3_aestetics/4_different_lighting_techniques.md)
-- 2.3. ❌ [Different gobo lighting techniques](/curriculum/tasks/3_aestetics/4_different_gobo_lighting.md)
-- 2.4. ❌ [Different set of post-effects](/curriculum/tasks/3_aestetics/3_different_set_of_post-effects.md)
-- 2.5. ❌ [Different focal points](/curriculum/tasks/3_aestetics/4_different_focal_points.md)
-- 2.6. ❌ [Different structures](/curriculum/tasks/3_aestetics/4_different_structures.md)
-- 2.7. ❌ [Different balance](/curriculum/tasks/3_aestetics/different_balance.md)
-- 2.8. ❌ [4 renders with different moods](/curriculum/tasks/3_aestetics/4_different_moods.md)
-- 2.9. ❌ [Categorize 8 images from](/curriculum/tasks/3_aestetics/Categorize_8_images.md)
-- 2.10. ❌ [Paint 3 levels of details](/curriculum/tasks/3_aestetics/Paint_3_levels_of_details.md)
+- 2.1. ❌ [Different color schemas](/curriculum/3_aestetics/6_different_color_schemas.md)
+- 2.2. ❌ [Different lighting techniques](/curriculum/3_aestetics/4_different_lighting_techniques.md)
+- 2.3. ❌ [Different gobo lighting techniques](/curriculum/3_aestetics/4_different_gobo_lighting.md)
+- 2.4. ❌ [Different set of post-effects](/curriculum/3_aestetics/3_different_set_of_post-effects.md)
+- 2.5. ❌ [Different focal points](/curriculum/3_aestetics/4_different_focal_points.md)
+- 2.6. ❌ [Different structures](/curriculum/3_aestetics/4_different_structures.md)
+- 2.7. ❌ [Different balance](/curriculum/3_aestetics/different_balance.md)
+- 2.8. ❌ [4 renders with different moods](/curriculum/3_aestetics/4_different_moods.md)
+- 2.9. ❌ [Categorize 8 images from](/curriculum/3_aestetics/Categorize_8_images.md)
+- 2.10. ❌ [Paint 3 levels of details](/curriculum/3_aestetics/Paint_3_levels_of_details.md)
 
 ## Research
 

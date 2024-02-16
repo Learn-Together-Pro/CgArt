@@ -87,4 +87,14 @@
   - Contrast
   - Framing
     
+# 4 Modeling and texturing
+- Lowpoly modeling
+- Hardsurface modeling
+- Topolody
+- Texture techniques
+- Shortcuts
+- Shear tool
+- Texture painting
+- Retopology
+    
   

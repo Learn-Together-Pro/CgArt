@@ -96,5 +96,17 @@
 - Shear tool
 - Texture painting
 - Retopology
+- Texture baking
+- Unwraping
+- How to tile a texture
+
+# 5 Procedural
+- Procedural materials
+- Geometry nodes
+   - Basic
+   - Data Structure
+   - Fields
+   - Attribute Propagation
+   - Instances
     
   
